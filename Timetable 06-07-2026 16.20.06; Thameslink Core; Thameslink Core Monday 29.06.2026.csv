@@ -1,0 +1,3227 @@
+Railway: Thameslink Core; Timetable: Thameslink Core Monday 29.06.2026;  Start time: 04:00
+
+Bedford - Brighton [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9N13
+
+Enters at T/F West Hampstead TL,04:23
+Arrives at Kentish Town,04:24
+Departs from Kentish Town,04:25
+Arrives at St. Pancras,04:31
+Departs from St. Pancras,04:32
+Passes Kings Cross TL (Closed),04:33
+Arrives at Farringdon,04:35
+Departs from Farringdon,04:36
+Passes City Thameslink,04:38
+Arrives at Blackfriars,04:39
+Departs from Blackfriars,04:40
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,04:42
+
+
+Bedford - Brighton via E&C P4 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9W15
+
+Enters at T/F West Hampstead TL,04:44
+Passes Kentish Town,04:45
+Arrives at St. Pancras,04:51
+Departs from St. Pancras,04:52
+Passes Kings Cross TL (Closed),04:53
+Arrives at Farringdon,04:55
+Departs from Farringdon,04:56
+Arrives at City Thameslink,04:57
+Departs from City Thameslink,04:58
+Arrives at Blackfriars,05:00
+Departs from Blackfriars,05:01
+Passes Elephant & Castle,05:03
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,05:05
+
+
+Bedford - Brighton [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9T01,9T03,9T05,9T07,9T09,9T11,9T13,9T15,9T17,9T19,9T21,9T23,9T25,9T27,9T29,9T31,9T33,9T35,9T37,9T39,9T41,9T43,9T45,9T47,9T49,9T51,9T53,9T55,9T57,9T59,9T61,9T63,9T65,9T67,9T69,9T71
+
+Enters at T/F West Hampstead TL,05:12,05:42,06:12,06:42,07:12,07:42,08:12,08:42,09:12,09:42,10:12,10:42,11:12,11:42,12:12,12:42,13:12,13:42,14:12,14:42,15:12,15:42,16:12,16:42,17:12,17:42,18:12,18:42,19:12,19:42,20:12,20:42,21:12,21:42,22:12,22:42
+Passes Kentish Town,05:13,05:43,06:13,06:43,07:13,07:43,08:13,08:43,09:13,09:43,10:13,10:43,11:13,11:43,12:13,12:43,13:13,13:43,14:13,14:43,15:13,15:43,16:13,16:43,17:13,17:43,18:13,18:43,19:13,19:43,20:13,20:43,21:13,21:43,22:13,22:43
+Arrives at St. Pancras,05:19,05:49,06:19,06:49,07:19,07:49,08:19,08:49,09:19,09:49,10:19,10:49,11:19,11:49,12:19,12:49,13:19,13:49,14:19,14:49,15:19,15:49,16:19,16:49,17:19,17:49,18:19,18:49,19:19,19:49,20:19,20:49,21:19,21:49,22:19,22:49
+Departs from St. Pancras,05:20,05:50,06:20,06:50,07:20,07:50,08:20,08:50,09:20,09:50,10:20,10:50,11:20,11:50,12:20,12:50,13:20,13:50,14:20,14:50,15:20,15:50,16:20,16:50,17:20,17:50,18:20,18:50,19:20,19:50,20:20,20:50,21:20,21:50,22:20,22:50
+Passes Kings Cross TL (Closed),05:21,05:51,06:21,06:51,07:21,07:51,08:21,08:51,09:21,09:51,10:21,10:51,11:21,11:51,12:21,12:51,13:21,13:51,14:21,14:51,15:21,15:51,16:21,16:51,17:21,17:51,18:21,18:51,19:21,19:51,20:21,20:51,21:21,21:51,22:21,22:51
+Arrives at Farringdon,05:23,05:53,06:23,06:53,07:23,07:53,08:23,08:53,09:23,09:53,10:23,10:53,11:23,11:53,12:23,12:53,13:23,13:53,14:23,14:53,15:23,15:53,16:23,16:53,17:23,17:53,18:23,18:53,19:23,19:53,20:23,20:53,21:23,21:53,22:23,22:53
+Departs from Farringdon,05:24,05:54,06:24,06:54,07:24,07:54,08:24,08:54,09:24,09:54,10:24,10:54,11:24,11:54,12:24,12:54,13:24,13:54,14:24,14:54,15:24,15:54,16:24,16:54,17:24,17:54,18:24,18:54,19:24,19:54,20:24,20:54,21:24,21:54,22:24,22:54
+Arrives at City Thameslink,05:25,05:55,06:25,06:55,07:25,07:55,08:25,08:55,09:25,09:55,10:25,10:55,11:25,11:55,12:25,12:55,13:25,13:55,14:25,14:55,15:25,15:55,16:25,16:55,17:25,17:55,18:25,18:55,19:25,19:55,20:25,20:55,21:25,21:55,22:25,22:55
+Departs from City Thameslink,05:26,05:56,06:26,06:56,07:26,07:56,08:26,08:56,09:26,09:56,10:26,10:56,11:26,11:56,12:26,12:56,13:26,13:56,14:26,14:56,15:26,15:56,16:26,16:56,17:26,17:56,18:26,18:56,19:26,19:56,20:26,20:56,21:26,21:56,22:26,22:56
+Arrives at Blackfriars,05:28,05:58,06:28,06:58,07:28,07:58,08:28,08:58,09:28,09:58,10:28,10:58,11:28,11:58,12:28,12:58,13:28,13:58,14:28,14:58,15:28,15:58,16:28,16:58,17:28,17:58,18:28,18:58,19:28,19:58,20:28,20:58,21:28,21:58,22:28,22:58
+Departs from Blackfriars,05:29,05:59,06:29,06:59,07:29,07:59,08:29,08:59,09:29,09:59,10:29,10:59,11:29,11:59,12:29,12:59,13:29,13:59,14:29,14:59,15:29,15:59,16:29,16:59,17:29,17:59,18:29,18:59,19:29,19:59,20:29,20:59,21:29,21:59,22:29,22:59
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,05:31,06:01,06:31,07:01,07:31,08:01,08:31,09:01,09:31,10:01,10:31,11:01,11:31,12:01,12:31,13:01,13:31,14:01,14:31,15:01,15:31,16:01,16:31,17:01,17:31,18:01,18:31,19:01,19:31,20:01,20:31,21:01,21:31,22:01,22:31,23:01
+
+
+Bedford - Brighton [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R69
+
+Enters at T/F West Hampstead TL,23:15
+Passes Kentish Town,23:16
+Arrives at St. Pancras,23:23
+Departs from St. Pancras,23:25
+Passes Kings Cross TL (Closed),23:25
+Arrives at Farringdon,23:27
+Departs from Farringdon,23:28
+Passes City Thameslink,23:29
+Arrives at Blackfriars,23:31
+Departs from Blackfriars,23:32
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,23:34
+
+
+Bedford - Brighton [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9N17
+
+Enters at T/F West Hampstead TL,23:45
+Passes Kentish Town,23:46
+Arrives at St. Pancras,23:52
+Departs from St. Pancras,23:54
+Passes Kings Cross TL (Closed),23:55
+Arrives at Farringdon,23:57
+Departs from Farringdon,23:58
+Passes City Thameslink,24:04
+Arrives at Blackfriars,24:06
+Departs from Blackfriars,24:07
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,24:09
+
+
+Bedford - Brighton [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9N21
+
+Enters at T/F West Hampstead TL,24:45
+Passes Kentish Town,24:46
+Arrives at St. Pancras,24:52
+Departs from St. Pancras,24:54
+Passes Kings Cross TL (Closed),24:55
+Arrives at Farringdon,24:57
+Departs from Farringdon,24:58
+Passes City Thameslink,24:59
+Arrives at Blackfriars,25:01
+Departs from Blackfriars,25:02
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,25:04
+
+
+Brighton - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R00
+
+Enters at T/F London Bridge,05:29
+Arrives at Blackfriars,05:33
+Departs from Blackfriars,05:34
+Arrives at City Thameslink,05:35
+Departs from City Thameslink,05:36
+Arrives at Farringdon,05:37
+Departs from Farringdon,05:38
+Passes Kings Cross TL (Closed),05:41
+Arrives at St. Pancras,05:42
+Departs from St. Pancras,05:43
+Passes Kentish Town,05:47
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,05:48
+
+
+Brighton - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9T00,9T02,9T04,9T06,9T08,9T10,9T12,9T14,9T16,9T18,9T20,9T22,9T24,9T26,9T28,9T30,9T32,9T34,9T36,9T38,9T40,9T42,9T44,9T46,9T48,9T50,9T52,9T54,9T56,9T58,9T60,9T62,9T64,9T66,9T68
+
+Enters at T/F London Bridge,06:37,07:07,07:37,08:07,08:37,09:07,09:37,10:07,10:37,11:07,11:37,12:07,12:37,13:07,13:37,14:07,14:37,15:07,15:37,16:07,16:37,17:07,17:37,18:07,18:37,19:07,19:37,20:07,20:37,21:07,21:37,22:07,22:37,23:07,23:37
+Arrives at Blackfriars,06:41,07:11,07:41,08:11,08:41,09:11,09:41,10:11,10:41,11:11,11:41,12:11,12:41,13:11,13:41,14:11,14:41,15:11,15:41,16:11,16:41,17:11,17:41,18:11,18:41,19:11,19:41,20:11,20:41,21:11,21:41,22:11,22:41,23:11,23:41
+Departs from Blackfriars,06:42,07:12,07:42,08:12,08:42,09:12,09:42,10:12,10:42,11:12,11:42,12:12,12:42,13:12,13:42,14:12,14:42,15:12,15:42,16:12,16:42,17:12,17:42,18:12,18:42,19:12,19:42,20:12,20:42,21:12,21:42,22:12,22:42,23:12,23:42
+Arrives at City Thameslink,06:43,07:13,07:43,08:13,08:43,09:13,09:43,10:13,10:43,11:13,11:43,12:13,12:43,13:13,13:43,14:13,14:43,15:13,15:43,16:13,16:43,17:13,17:43,18:13,18:43,19:13,19:43,20:13,20:43,21:13,21:43,22:13,22:43,23:13,23:43
+Departs from City Thameslink,06:44,07:14,07:44,08:14,08:44,09:14,09:44,10:14,10:44,11:14,11:44,12:14,12:44,13:14,13:44,14:14,14:44,15:14,15:44,16:14,16:44,17:14,17:44,18:14,18:44,19:14,19:44,20:14,20:44,21:14,21:44,22:14,22:44,23:14,23:44
+Arrives at Farringdon,06:45,07:15,07:45,08:15,08:45,09:15,09:45,10:15,10:45,11:15,11:45,12:15,12:45,13:15,13:45,14:15,14:45,15:15,15:45,16:15,16:45,17:15,17:45,18:15,18:45,19:15,19:45,20:15,20:45,21:15,21:45,22:15,22:45,23:15,23:45
+Departs from Farringdon,06:46,07:16,07:46,08:16,08:46,09:16,09:46,10:16,10:46,11:16,11:46,12:16,12:46,13:16,13:46,14:16,14:46,15:16,15:46,16:16,16:46,17:16,17:46,18:16,18:46,19:16,19:46,20:16,20:46,21:16,21:46,22:16,22:46,23:16,23:46
+Passes Kings Cross TL (Closed),06:49,07:19,07:49,08:19,08:49,09:19,09:49,10:19,10:49,11:19,11:49,12:19,12:49,13:19,13:49,14:19,14:49,15:19,15:49,16:19,16:49,17:19,17:49,18:19,18:49,19:19,19:49,20:19,20:49,21:19,21:49,22:19,22:49,23:19,23:49
+Arrives at St. Pancras,06:50,07:20,07:50,08:20,08:50,09:20,09:50,10:20,10:50,11:20,11:50,12:20,12:50,13:20,13:50,14:20,14:50,15:20,15:50,16:20,16:50,17:20,17:50,18:20,18:50,19:20,19:50,20:20,20:50,21:20,21:50,22:20,22:50,23:20,23:50
+Departs from St. Pancras,06:51,07:21,07:51,08:21,08:51,09:21,09:51,10:21,10:51,11:21,11:51,12:21,12:51,13:21,13:51,14:21,14:51,15:21,15:51,16:21,16:51,17:21,17:51,18:21,18:51,19:21,19:51,20:21,20:51,21:21,21:51,22:21,22:51,23:21,23:51
+Passes Kentish Town,06:55,07:25,07:55,08:25,08:55,09:25,09:55,10:25,10:55,11:25,11:55,12:25,12:55,13:25,13:55,14:25,14:55,15:25,15:55,16:25,16:55,17:25,17:55,18:25,18:55,19:25,19:55,20:25,20:55,21:25,21:55,22:25,22:55,23:25,23:55
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,06:56,07:26,07:56,08:26,08:56,09:26,09:56,10:26,10:56,11:26,11:56,12:26,12:56,13:26,13:56,14:26,14:56,15:26,15:56,16:26,16:56,17:26,17:56,18:26,18:56,19:26,19:56,20:26,20:56,21:26,21:56,22:26,22:56,23:26,23:56
+
+
+Brighton - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9N16
+
+Enters at T/F London Bridge,24:17
+Arrives at Blackfriars,24:21
+Departs from Blackfriars,24:22
+Arrives at City Thameslink,24:23
+Departs from City Thameslink,24:24
+Arrives at Farringdon,24:25
+Departs from Farringdon,24:26
+Passes Kings Cross TL (Closed),24:29
+Arrives at St. Pancras,24:30
+Departs from St. Pancras,24:31
+Passes Kentish Town,24:35
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,24:36
+
+
+Brighton - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9N18
+
+Enters at T/F London Bridge,24:45
+Arrives at Blackfriars,24:48
+Departs from Blackfriars,24:51
+Arrives at City Thameslink,24:52
+Departs from City Thameslink,24:53
+Passes Farringdon,24:54
+Passes Kings Cross TL (Closed),24:57
+Arrives at St. Pancras,24:58
+Departs from St. Pancras,24:59
+Arrives at Kentish Town,25:02
+Departs from Kentish Town,25:03
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,25:04
+
+
+Brighton - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9N00
+
+Enters at T/F London Bridge,25:26
+Arrives at Blackfriars,25:29
+Departs from Blackfriars,25:36
+Arrives at City Thameslink,25:37
+Departs from City Thameslink,25:38
+Passes Farringdon,25:40
+Passes Kings Cross TL (Closed),25:42
+Arrives at St. Pancras,25:43
+Departs from St. Pancras,25:44
+Arrives at Kentish Town,25:47
+Departs from Kentish Town,25:48
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,25:49
+
+
+Peterborough - Horsham [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9J01,9J03,9J05,9J07,9J09,9J11,9J13,9J15,9J17,9J19,9J21,9J23,9J25,9J27,9J29,9J31,9J33,9J35,9J37,9J39,9J41,9J43,9J45,9J47,9J49,9J51,9J53,9J55,9J57,9J59,9J61,9J63,9J65,9J67,9J69,9J71
+
+Enters at T/F Finsbury Park,05:41,06:11,06:41,07:11,07:41,08:11,08:41,09:11,09:41,10:11,10:41,11:11,11:41,12:11,12:41,13:11,13:41,14:11,14:41,15:11,15:41,16:11,16:41,17:11,17:41,18:11,18:41,19:11,19:41,20:11,20:41,21:11,21:41,22:11,22:41,23:11
+Arrives at St. Pancras,05:44,06:14,06:44,07:14,07:44,08:14,08:44,09:14,09:44,10:14,10:44,11:14,11:44,12:14,12:44,13:14,13:44,14:14,14:44,15:14,15:44,16:14,16:44,17:14,17:44,18:14,18:44,19:14,19:44,20:14,20:44,21:14,21:44,22:14,22:44,23:14
+Departs from St. Pancras,05:45,06:15,06:45,07:15,07:45,08:15,08:45,09:15,09:45,10:15,10:45,11:15,11:45,12:15,12:45,13:15,13:45,14:15,14:45,15:15,15:45,16:15,16:45,17:15,17:45,18:15,18:45,19:15,19:45,20:15,20:45,21:15,21:45,22:15,22:45,23:15
+Passes Kings Cross TL (Closed),05:46,06:16,06:46,07:16,07:46,08:16,08:46,09:16,09:46,10:16,10:46,11:16,11:46,12:16,12:46,13:16,13:46,14:16,14:46,15:16,15:46,16:16,16:46,17:16,17:46,18:16,18:46,19:16,19:46,20:16,20:46,21:16,21:46,22:16,22:46,23:16
+Arrives at Farringdon,05:48,06:18,06:48,07:18,07:48,08:18,08:48,09:18,09:48,10:18,10:48,11:18,11:48,12:18,12:48,13:18,13:48,14:18,14:48,15:18,15:48,16:18,16:48,17:18,17:48,18:18,18:48,19:18,19:48,20:18,20:48,21:18,21:48,22:18,22:48,23:18
+Departs from Farringdon,05:49,06:19,06:49,07:19,07:49,08:19,08:49,09:19,09:49,10:19,10:49,11:19,11:49,12:19,12:49,13:19,13:49,14:19,14:49,15:19,15:49,16:19,16:49,17:19,17:49,18:19,18:49,19:19,19:49,20:19,20:49,21:19,21:49,22:19,22:49,23:19
+Arrives at City Thameslink,05:50,06:20,06:50,07:20,07:50,08:20,08:50,09:20,09:50,10:20,10:50,11:20,11:50,12:20,12:50,13:20,13:50,14:20,14:50,15:20,15:50,16:20,16:50,17:20,17:50,18:20,18:50,19:20,19:50,20:20,20:50,21:20,21:50,22:20,22:50,23:20
+Departs from City Thameslink,05:51,06:21,06:51,07:21,07:51,08:21,08:51,09:21,09:51,10:21,10:51,11:21,11:51,12:21,12:51,13:21,13:51,14:21,14:51,15:21,15:51,16:21,16:51,17:21,17:51,18:21,18:51,19:21,19:51,20:21,20:51,21:21,21:51,22:21,22:51,23:21
+Arrives at Blackfriars,05:53,06:23,06:53,07:23,07:53,08:23,08:53,09:23,09:53,10:23,10:53,11:23,11:53,12:23,12:53,13:23,13:53,14:23,14:53,15:23,15:53,16:23,16:53,17:23,17:53,18:23,18:53,19:23,19:53,20:23,20:53,21:23,21:53,22:23,22:53,23:23
+Departs from Blackfriars,05:54,06:24,06:54,07:24,07:54,08:24,08:54,09:24,09:54,10:24,10:54,11:24,11:54,12:24,12:54,13:24,13:54,14:24,14:54,15:24,15:54,16:24,16:54,17:24,17:54,18:24,18:54,19:24,19:54,20:24,20:54,21:24,21:54,22:24,22:54,23:24
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,05:56,06:26,06:56,07:26,07:56,08:26,08:56,09:26,09:56,10:26,10:56,11:26,11:56,12:26,12:56,13:26,13:56,14:26,14:56,15:26,15:56,16:26,16:56,17:26,17:56,18:26,18:56,19:26,19:56,20:26,20:56,21:26,21:56,22:26,22:56,23:26
+
+
+Horsham - Peterborough [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9J08,9J10,9J12,9J14,9J16,9J18,9J20,9J22,9J24,9J26,9J28,9J30,9J32,9J34,9J36,9J38,9J40,9J42,9J44,9J46,9J48,9J50,9J52,9J54,9J56,9J58,9J60,9J62,9J64,9J66,9J68,9J70,9J72,9J74,9J76
+
+Enters at T/F London Bridge,06:32,07:02,07:32,08:02,08:32,09:02,09:32,10:02,10:32,11:02,11:32,12:02,12:32,13:02,13:32,14:02,14:32,15:02,15:32,16:02,16:32,17:02,17:32,18:02,18:32,19:02,19:32,20:02,20:32,21:02,21:32,22:02,22:32,23:02,23:32
+Arrives at Blackfriars,06:36,07:06,07:36,08:06,08:36,09:06,09:36,10:06,10:36,11:06,11:36,12:06,12:36,13:06,13:36,14:06,14:36,15:06,15:36,16:06,16:36,17:06,17:36,18:06,18:36,19:06,19:36,20:06,20:36,21:06,21:36,22:06,22:36,23:06,23:36
+Departs from Blackfriars,06:37,07:07,07:37,08:07,08:37,09:07,09:37,10:07,10:37,11:07,11:37,12:07,12:37,13:07,13:37,14:07,14:37,15:07,15:37,16:07,16:37,17:07,17:37,18:07,18:37,19:07,19:37,20:07,20:37,21:07,21:37,22:07,22:37,23:07,23:37
+Arrives at City Thameslink,06:38,07:08,07:38,08:08,08:38,09:08,09:38,10:08,10:38,11:08,11:38,12:08,12:38,13:08,13:38,14:08,14:38,15:08,15:38,16:08,16:38,17:08,17:38,18:08,18:38,19:08,19:38,20:08,20:38,21:08,21:38,22:08,22:38,23:08,23:38
+Departs from City Thameslink,06:39,07:09,07:39,08:09,08:39,09:09,09:39,10:09,10:39,11:09,11:39,12:09,12:39,13:09,13:39,14:09,14:39,15:09,15:39,16:09,16:39,17:09,17:39,18:09,18:39,19:09,19:39,20:09,20:39,21:09,21:39,22:09,22:39,23:09,23:39
+Arrives at Farringdon,06:40,07:10,07:40,08:10,08:40,09:10,09:40,10:10,10:40,11:10,11:40,12:10,12:40,13:10,13:40,14:10,14:40,15:10,15:40,16:10,16:40,17:10,17:40,18:10,18:40,19:10,19:40,20:10,20:40,21:10,21:40,22:10,22:40,23:10,23:40
+Departs from Farringdon,06:41,07:11,07:41,08:11,08:41,09:11,09:41,10:11,10:41,11:11,11:41,12:11,12:41,13:11,13:41,14:11,14:41,15:11,15:41,16:11,16:41,17:11,17:41,18:11,18:41,19:11,19:41,20:11,20:41,21:11,21:41,22:11,22:41,23:11,23:41
+Passes Kings Cross TL (Closed),06:44,07:14,07:44,08:14,08:44,09:14,09:44,10:14,10:44,11:14,11:44,12:14,12:44,13:14,13:44,14:14,14:44,15:14,15:44,16:14,16:44,17:14,17:44,18:14,18:44,19:14,19:44,20:14,20:44,21:14,21:44,22:14,22:44,23:14,23:44
+Arrives at St. Pancras,06:45,07:15,07:45,08:15,08:45,09:15,09:45,10:15,10:45,11:15,11:45,12:15,12:45,13:15,13:45,14:15,14:45,15:15,15:45,16:15,16:45,17:15,17:45,18:15,18:45,19:15,19:45,20:15,20:45,21:15,21:45,22:15,22:45,23:15,23:45
+Departs from St. Pancras,06:46,07:16,07:46,08:16,08:46,09:16,09:46,10:16,10:46,11:16,11:46,12:16,12:46,13:16,13:46,14:16,14:46,15:16,15:46,16:16,16:46,17:16,17:46,18:16,18:46,19:16,19:46,20:16,20:46,21:16,21:46,22:16,22:46,23:16,23:46
+Exits railway at T/F Finsbury Park,
+allowable exit element(s): 30-6 ,06:48,07:18,07:48,08:18,08:48,09:18,09:48,10:18,10:48,11:18,11:48,12:18,12:48,13:18,13:48,14:18,14:48,15:18,15:48,16:18,16:48,17:18,17:48,18:18,18:48,19:18,19:48,20:18,20:48,21:18,21:48,22:18,22:48,23:18,23:48
+
+
+Cambridge - Brighton [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9S01,9S03,9S05,9S07,9S09,9S11,9S13,9S15,9S17,9S19,9S21,9S23,9S25,9S27,9S29,9S31,9S33,9S35,9S37,9S39,9S41,9S43,9S45,9S47,9S49,9S51,9S53,9S55
+
+Enters at T/F Finsbury Park,05:56,06:26,06:56,07:26,07:56,08:26,08:56,09:26,09:56,10:26,10:56,11:26,11:56,12:26,12:56,13:26,13:56,14:26,14:56,15:26,15:56,16:26,16:56,17:26,17:56,18:26,18:56,19:26
+Arrives at St. Pancras,05:59,06:29,06:59,07:29,07:59,08:29,08:59,09:29,09:59,10:29,10:59,11:29,11:59,12:29,12:59,13:29,13:59,14:29,14:59,15:29,15:59,16:29,16:59,17:29,17:59,18:29,18:59,19:29
+Departs from St. Pancras,06:00,06:30,07:00,07:30,08:00,08:30,09:00,09:30,10:00,10:30,11:00,11:30,12:00,12:30,13:00,13:30,14:00,14:30,15:00,15:30,16:00,16:30,17:00,17:30,18:00,18:30,19:00,19:30
+Passes Kings Cross TL (Closed),06:01,06:31,07:01,07:31,08:01,08:31,09:01,09:31,10:01,10:31,11:01,11:31,12:01,12:31,13:01,13:31,14:01,14:31,15:01,15:31,16:01,16:31,17:01,17:31,18:01,18:31,19:01,19:31
+Arrives at Farringdon,06:03,06:33,07:03,07:33,08:03,08:33,09:03,09:33,10:03,10:33,11:03,11:33,12:03,12:33,13:03,13:33,14:03,14:33,15:03,15:33,16:03,16:33,17:03,17:33,18:03,18:33,19:03,19:33
+Departs from Farringdon,06:04,06:34,07:04,07:34,08:04,08:34,09:04,09:34,10:04,10:34,11:04,11:34,12:04,12:34,13:04,13:34,14:04,14:34,15:04,15:34,16:04,16:34,17:04,17:34,18:04,18:34,19:04,19:34
+Arrives at City Thameslink,06:05,06:35,07:05,07:35,08:05,08:35,09:05,09:35,10:05,10:35,11:05,11:35,12:05,12:35,13:05,13:35,14:05,14:35,15:05,15:35,16:05,16:35,17:05,17:35,18:05,18:35,19:05,19:35
+Departs from City Thameslink,06:06,06:36,07:06,07:36,08:06,08:36,09:06,09:36,10:06,10:36,11:06,11:36,12:06,12:36,13:06,13:36,14:06,14:36,15:06,15:36,16:06,16:36,17:06,17:36,18:06,18:36,19:06,19:36
+Arrives at Blackfriars,06:08,06:38,07:08,07:38,08:08,08:38,09:08,09:38,10:08,10:38,11:08,11:38,12:08,12:38,13:08,13:38,14:08,14:38,15:08,15:38,16:08,16:38,17:08,17:38,18:08,18:38,19:08,19:38
+Departs from Blackfriars,06:09,06:39,07:09,07:39,08:09,08:39,09:09,09:39,10:09,10:39,11:09,11:39,12:09,12:39,13:09,13:39,14:09,14:39,15:09,15:39,16:09,16:39,17:09,17:39,18:09,18:39,19:09,19:39
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,06:11,06:41,07:11,07:41,08:11,08:41,09:11,09:41,10:11,10:41,11:11,11:41,12:11,12:41,13:11,13:41,14:11,14:41,15:11,15:41,16:11,16:41,17:11,17:41,18:11,18:41,19:11,19:41
+
+
+Cambridge - Brighton [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9S57,9S61,9S65,9S69
+
+Enters at T/F Finsbury Park,19:56,20:56,21:56,22:56
+Arrives at St. Pancras,19:59,20:59,21:59,22:59
+Departs from St. Pancras,20:00,21:00,22:00,23:00
+Passes Kings Cross TL (Closed),20:01,21:01,22:01,23:01
+Arrives at Farringdon,20:03,21:03,22:03,23:03
+Departs from Farringdon,20:04,21:04,22:04,23:04
+Arrives at City Thameslink,20:05,21:05,22:05,23:05
+Departs from City Thameslink,20:06,21:06,22:06,23:06
+Arrives at Blackfriars,20:08,21:08,22:08,23:08
+Departs from Blackfriars,20:09,21:09,22:09,23:09
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,20:11,21:11,22:11,23:11
+
+
+Brighton - Cambridge [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9S00,9S02,9S04,9S06,9S08,9S10,9S12,9S14,9S16,9S18,9S20,9S22,9S24,9S26,9S28,9S30,9S32,9S34,9S36,9S38,9S40,9S42,9S44,9S46,9S48,9S50,9S52,9S54
+
+Enters at T/F London Bridge,06:17,06:47,07:17,07:47,08:17,08:47,09:17,09:47,10:17,10:47,11:17,11:47,12:17,12:47,13:17,13:47,14:17,14:47,15:17,15:47,16:17,16:47,17:17,17:47,18:17,18:47,19:17,19:47
+Arrives at Blackfriars,06:21,06:51,07:21,07:51,08:21,08:51,09:21,09:51,10:21,10:51,11:21,11:51,12:21,12:51,13:21,13:51,14:21,14:51,15:21,15:51,16:21,16:51,17:21,17:51,18:21,18:51,19:21,19:51
+Departs from Blackfriars,06:22,06:52,07:22,07:52,08:22,08:52,09:22,09:52,10:22,10:52,11:22,11:52,12:22,12:52,13:22,13:52,14:22,14:52,15:22,15:52,16:22,16:52,17:22,17:52,18:22,18:52,19:22,19:52
+Arrives at City Thameslink,06:23,06:53,07:23,07:53,08:23,08:53,09:23,09:53,10:23,10:53,11:23,11:53,12:23,12:53,13:23,13:53,14:23,14:53,15:23,15:53,16:23,16:53,17:23,17:53,18:23,18:53,19:23,19:53
+Departs from City Thameslink,06:24,06:54,07:24,07:54,08:24,08:54,09:24,09:54,10:24,10:54,11:24,11:54,12:24,12:54,13:24,13:54,14:24,14:54,15:24,15:54,16:24,16:54,17:24,17:54,18:24,18:54,19:24,19:54
+Arrives at Farringdon,06:25,06:55,07:25,07:55,08:25,08:55,09:25,09:55,10:25,10:55,11:25,11:55,12:25,12:55,13:25,13:55,14:25,14:55,15:25,15:55,16:25,16:55,17:25,17:55,18:25,18:55,19:25,19:55
+Departs from Farringdon,06:26,06:56,07:26,07:56,08:26,08:56,09:26,09:56,10:26,10:56,11:26,11:56,12:26,12:56,13:26,13:56,14:26,14:56,15:26,15:56,16:26,16:56,17:26,17:56,18:26,18:56,19:26,19:56
+Passes Kings Cross TL (Closed),06:29,06:59,07:29,07:59,08:29,08:59,09:29,09:59,10:29,10:59,11:29,11:59,12:29,12:59,13:29,13:59,14:29,14:59,15:29,15:59,16:29,16:59,17:29,17:59,18:29,18:59,19:29,19:59
+Arrives at St. Pancras,06:30,07:00,07:30,08:00,08:30,09:00,09:30,10:00,10:30,11:00,11:30,12:00,12:30,13:00,13:30,14:00,14:30,15:00,15:30,16:00,16:30,17:00,17:30,18:00,18:30,19:00,19:30,20:00
+Departs from St. Pancras,06:31,07:01,07:31,08:01,08:31,09:01,09:31,10:01,10:31,11:01,11:31,12:01,12:31,13:01,13:31,14:01,14:31,15:01,15:31,16:01,16:31,17:01,17:31,18:01,18:31,19:01,19:31,20:01
+Exits railway at T/F Finsbury Park,
+allowable exit element(s): 30-6 ,06:33,07:03,07:33,08:03,08:33,09:03,09:33,10:03,10:33,11:03,11:33,12:03,12:33,13:03,13:33,14:03,14:33,15:03,15:33,16:03,16:33,17:03,17:33,18:03,18:33,19:03,19:33,20:03
+
+
+Brighton - Cambridge [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9S56,9S60,9S64,9S68
+
+Enters at T/F London Bridge,20:17,21:17,22:17,23:17
+Arrives at Blackfriars,20:21,21:21,22:21,23:21
+Departs from Blackfriars,20:22,21:22,22:22,23:22
+Arrives at City Thameslink,20:23,21:23,22:23,23:23
+Departs from City Thameslink,20:24,21:24,22:24,23:24
+Arrives at Farringdon,20:25,21:25,22:25,23:25
+Departs from Farringdon,20:26,21:26,22:26,23:26
+Passes Kings Cross TL (Closed),20:29,21:29,22:29,23:29
+Arrives at St. Pancras,20:30,21:30,22:30,23:30
+Departs from St. Pancras,20:31,21:31,22:31,23:31
+Exits railway at T/F Finsbury Park,
+allowable exit element(s): 30-6 ,20:33,21:33,22:33,23:33
+
+
+Welwyn Garden City - Sevenoaks via E&C P4 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y09,9Y11,9Y13,9Y15,9Y17,9Y19
+
+Enters at T/F Finsbury Park,07:02,07:32,08:02,08:32,09:02,09:32
+Arrives at St. Pancras,07:06,07:36,08:06,08:36,09:06,09:36
+Departs from St. Pancras,07:07,07:37,08:07,08:37,09:07,09:37
+Passes Kings Cross TL (Closed),07:08,07:38,08:08,08:38,09:08,09:38
+Arrives at Farringdon,07:11,07:41,08:11,08:41,09:11,09:41
+Departs from Farringdon,07:12,07:42,08:12,08:42,09:12,09:42
+Arrives at City Thameslink,07:13,07:43,08:13,08:43,09:13,09:43
+Departs from City Thameslink,07:14,07:44,08:14,08:44,09:14,09:44
+Arrives at Blackfriars,07:15,07:45,08:15,08:45,09:15,09:45
+Departs from Blackfriars,07:16,07:46,08:16,08:46,09:16,09:46
+Arrives at Elephant & Castle,07:19,07:49,08:19,08:49,09:19,09:49
+Departs from Elephant & Castle,07:20,07:50,08:20,08:50,09:20,09:50
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,07:23,07:53,08:23,08:53,09:23,09:53
+
+
+Welwyn Garden City - Sevenoaks via E&C P4 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y51,9Y53,9Y55,9Y57,9Y59,9Y61
+
+Enters at T/F Finsbury Park,17:33,18:03,18:33,19:03,19:33,20:03
+Arrives at St. Pancras,17:36,18:06,18:36,19:06,19:36,20:06
+Departs from St. Pancras,17:37,18:07,18:37,19:07,19:37,20:07
+Passes Kings Cross TL (Closed),17:38,18:08,18:38,19:08,19:38,20:08
+Arrives at Farringdon,17:41,18:11,18:41,19:11,19:41,20:11
+Departs from Farringdon,17:42,18:12,18:42,19:12,19:42,20:12
+Arrives at City Thameslink,17:43,18:13,18:43,19:13,19:43,20:13
+Departs from City Thameslink,17:44,18:14,18:44,19:14,19:44,20:14
+Arrives at Blackfriars,17:45,18:15,18:45,19:15,19:45,20:15
+Departs from Blackfriars,17:46,18:16,18:46,19:16,19:46,20:16
+Arrives at Elephant & Castle,17:49,18:19,18:49,19:19,19:49,20:19
+Departs from Elephant & Castle,17:50,18:20,18:50,19:20,19:50,20:20
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,17:53,18:23,18:53,19:23,19:53,20:23
+
+
+Sevenoaks - Welwyn Garden City via E&C P3; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y76,9Y78,9Y80,9Y82,9Y84
+
+Enters at T/F Loughborough Junction,06:51,07:21,07:51,08:21,08:51
+Arrives at Elephant & Castle,06:53,07:23,07:53,08:23,08:53
+Departs from Elephant & Castle,06:54,07:24,07:54,08:24,08:54
+Arrives at Blackfriars,06:58,07:28,07:58,08:28,08:58
+Departs from Blackfriars,06:59,07:29,07:59,08:29,08:59
+Arrives at City Thameslink,07:00,07:30,08:00,08:30,09:00
+Departs from City Thameslink,07:01,07:31,08:01,08:31,09:01
+Arrives at Farringdon,07:03,07:33,08:03,08:33,09:03
+Departs from Farringdon,07:04,07:34,08:04,08:34,09:04
+Passes Kings Cross TL (Closed),07:06,07:36,08:06,08:36,09:06
+Arrives at St. Pancras,07:07,07:37,08:07,08:37,09:07
+Departs from St. Pancras,07:08,07:38,08:08,08:38,09:08
+Exits railway at T/F Finsbury Park,
+allowable exit element(s): 30-6 ,07:11,07:41,08:11,08:41,09:11
+
+
+Sevenoaks - Welwyn Garden City via E&C P3; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y88,9Y90,9Y92,9Y94,9Y96,9Y98
+
+Enters at T/F Loughborough Junction,16:21,16:51,17:21,17:51,18:21,18:51
+Arrives at Elephant & Castle,16:23,16:53,17:23,17:53,18:23,18:53
+Departs from Elephant & Castle,16:24,16:54,17:24,17:54,18:24,18:54
+Arrives at Blackfriars,16:28,16:58,17:28,17:58,18:28,18:58
+Departs from Blackfriars,16:29,16:59,17:29,17:59,18:29,18:59
+Arrives at City Thameslink,16:30,17:00,17:30,18:00,18:30,19:00
+Departs from City Thameslink,16:31,17:01,17:31,18:01,18:31,19:01
+Arrives at Farringdon,16:33,17:03,17:33,18:03,18:33,19:03
+Departs from Farringdon,16:34,17:04,17:34,18:04,18:34,19:04
+Passes Kings Cross TL (Closed),16:36,17:06,17:36,18:06,18:36,19:06
+Arrives at St. Pancras,16:37,17:07,17:37,18:07,18:37,19:07
+Departs from St. Pancras,16:38,17:08,17:38,18:08,18:38,19:08
+Exits railway at T/F Finsbury Park,
+allowable exit element(s): 30-6 ,16:41,17:11,17:41,18:11,18:41,19:11
+
+
+Blackfriars - Sevenoaks via E&C P4 [TL] - Class 700/0
+,9Y01
+
+New service at Blackfriars from,5J01 at 05:06
+Departs from Blackfriars,05:16
+Arrives at Elephant & Castle,05:19
+Departs from Elephant & Castle,05:20
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,05:22
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y03
+
+New service at Blackfriars from,5Y03 at 05:42
+Departs from Blackfriars,05:46
+Arrives at Elephant & Castle,05:49
+Departs from Elephant & Castle,05:50
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,05:53
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y05
+
+Created at Blackfriars,04:00
+Departs from Blackfriars,06:16
+Arrives at Elephant & Castle,06:19
+Departs from Elephant & Castle,06:20
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,06:23
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y07
+
+New service at Blackfriars from,9Y00 at 06:34
+Departs from Blackfriars,06:46
+Arrives at Elephant & Castle,06:49
+Departs from Elephant & Castle,06:50
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,06:53
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y21
+
+New service at Blackfriars from,9Y14 at 10:04
+Departs from Blackfriars,10:16
+Arrives at Elephant & Castle,10:19
+Departs from Elephant & Castle,10:20
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,10:23
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y23
+
+New service at Blackfriars from,9Y16 at 10:34
+Departs from Blackfriars,10:46
+Arrives at Elephant & Castle,10:49
+Departs from Elephant & Castle,10:50
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,10:53
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y25
+
+New service at Blackfriars from,9Y18 at 11:04
+Departs from Blackfriars,11:16
+Arrives at Elephant & Castle,11:19
+Departs from Elephant & Castle,11:20
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,11:23
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y27
+
+New service at Blackfriars from,9Y20 at 11:34
+Departs from Blackfriars,11:46
+Arrives at Elephant & Castle,11:49
+Departs from Elephant & Castle,11:50
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,11:53
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y29
+
+New service at Blackfriars from,9Y22 at 12:04
+Departs from Blackfriars,12:16
+Arrives at Elephant & Castle,12:19
+Departs from Elephant & Castle,12:20
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,12:23
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y31
+
+New service at Blackfriars from,9Y24 at 12:34
+Departs from Blackfriars,12:46
+Arrives at Elephant & Castle,12:49
+Departs from Elephant & Castle,12:50
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,12:53
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y33
+
+New service at Blackfriars from,9Y26 at 13:04
+Departs from Blackfriars,13:16
+Arrives at Elephant & Castle,13:19
+Departs from Elephant & Castle,13:20
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,13:23
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y35
+
+New service at Blackfriars from,9Y28 at 13:34
+Departs from Blackfriars,13:46
+Arrives at Elephant & Castle,13:49
+Departs from Elephant & Castle,13:50
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,13:53
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y37
+
+New service at Blackfriars from,9Y30 at 14:04
+Departs from Blackfriars,14:16
+Arrives at Elephant & Castle,14:19
+Departs from Elephant & Castle,14:20
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,14:23
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y39
+
+New service at Blackfriars from,9Y32 at 14:34
+Departs from Blackfriars,14:46
+Arrives at Elephant & Castle,14:49
+Departs from Elephant & Castle,14:50
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,14:53
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y41
+
+New service at Blackfriars from,9Y34 at 15:04
+Departs from Blackfriars,15:16
+Arrives at Elephant & Castle,15:19
+Departs from Elephant & Castle,15:20
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,15:23
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y43
+
+New service at Blackfriars from,9Y36 at 15:34
+Departs from Blackfriars,15:46
+Arrives at Elephant & Castle,15:49
+Departs from Elephant & Castle,15:50
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,15:53
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y45
+
+New service at Blackfriars from,9Y38 at 16:04
+Departs from Blackfriars,16:16
+Arrives at Elephant & Castle,16:19
+Departs from Elephant & Castle,16:20
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,16:23
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y59
+
+New service at Blackfriars from,9Y52 at 19:34
+Departs from Blackfriars,19:46
+Arrives at Elephant & Castle,19:49
+Departs from Elephant & Castle,19:50
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,19:53
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y61
+
+New service at Blackfriars from,9Y54 at 20:04
+Departs from Blackfriars,20:16
+Arrives at Elephant & Castle,20:19
+Departs from Elephant & Castle,20:20
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,20:23
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y63
+
+New service at Blackfriars from,9Y56 at 20:34
+Departs from Blackfriars,20:46
+Arrives at Elephant & Castle,20:49
+Departs from Elephant & Castle,20:50
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,20:53
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y65
+
+New service at Blackfriars from,9Y58 at 21:04
+Departs from Blackfriars,21:16
+Arrives at Elephant & Castle,21:19
+Departs from Elephant & Castle,21:20
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,21:23
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y67
+
+New service at Blackfriars from,9Y60 at 21:34
+Departs from Blackfriars,21:46
+Arrives at Elephant & Castle,21:49
+Departs from Elephant & Castle,21:50
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,21:53
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y69
+
+New service at Blackfriars from,9Y62 at 22:04
+Departs from Blackfriars,22:16
+Arrives at Elephant & Castle,22:19
+Departs from Elephant & Castle,22:20
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,22:23
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y71
+
+New service at Blackfriars from,9Y64 at 22:34
+Departs from Blackfriars,22:46
+Arrives at Elephant & Castle,22:49
+Departs from Elephant & Castle,22:50
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,22:53
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y73
+
+New service at Blackfriars from,9Y66 at 23:04
+Departs from Blackfriars,23:16
+Arrives at Elephant & Castle,23:19
+Departs from Elephant & Castle,23:20
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,23:23
+
+
+Blackfriars - Sevenoaks via E&C P2 [TL] - Class 700/0
+,9Y75
+
+New service at Blackfriars from,9Y68 at 23:34
+Departs from Blackfriars,23:46
+Arrives at Elephant & Castle,23:49
+Departs from Elephant & Castle,23:50
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,23:53
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y00
+
+Enters at T/F Loughborough Junction,06:21
+Arrives at Elephant & Castle,06:23
+Departs from Elephant & Castle,06:24
+Arrives at Blackfriars,06:29
+Changes direction at Blackfriars,06:32
+At Blackfriars forms new service,9Y07 at 06:34
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y14
+
+Enters at T/F Loughborough Junction,09:51
+Arrives at Elephant & Castle,09:53
+Departs from Elephant & Castle,09:54
+Arrives at Blackfriars,09:59
+Changes direction at Blackfriars,10:02
+At Blackfriars forms new service,9Y21 at 10:04
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y16
+
+Enters at T/F Loughborough Junction,10:21
+Arrives at Elephant & Castle,10:23
+Departs from Elephant & Castle,10:24
+Arrives at Blackfriars,10:29
+Changes direction at Blackfriars,10:32
+At Blackfriars forms new service,9Y23 at 10:34
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y18
+
+Enters at T/F Loughborough Junction,10:51
+Arrives at Elephant & Castle,10:53
+Departs from Elephant & Castle,10:54
+Arrives at Blackfriars,10:59
+Changes direction at Blackfriars,11:02
+At Blackfriars forms new service,9Y25 at 11:04
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y20
+
+Enters at T/F Loughborough Junction,11:21
+Arrives at Elephant & Castle,11:23
+Departs from Elephant & Castle,11:24
+Arrives at Blackfriars,11:29
+Changes direction at Blackfriars,11:32
+At Blackfriars forms new service,9Y27 at 11:34
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y22
+
+Enters at T/F Loughborough Junction,11:51
+Arrives at Elephant & Castle,11:53
+Departs from Elephant & Castle,11:54
+Arrives at Blackfriars,11:59
+Changes direction at Blackfriars,12:02
+At Blackfriars forms new service,9Y29 at 12:04
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y24
+
+Enters at T/F Loughborough Junction,12:21
+Arrives at Elephant & Castle,12:23
+Departs from Elephant & Castle,12:24
+Arrives at Blackfriars,12:29
+Changes direction at Blackfriars,12:32
+At Blackfriars forms new service,9Y31 at 12:34
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y26
+
+Enters at T/F Loughborough Junction,12:51
+Arrives at Elephant & Castle,12:53
+Departs from Elephant & Castle,12:54
+Arrives at Blackfriars,12:59
+Changes direction at Blackfriars,13:02
+At Blackfriars forms new service,9Y33 at 13:04
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y28
+
+Enters at T/F Loughborough Junction,13:21
+Arrives at Elephant & Castle,13:23
+Departs from Elephant & Castle,13:24
+Arrives at Blackfriars,13:29
+Changes direction at Blackfriars,13:32
+At Blackfriars forms new service,9Y35 at 13:34
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y30
+
+Enters at T/F Loughborough Junction,13:51
+Arrives at Elephant & Castle,13:53
+Departs from Elephant & Castle,13:54
+Arrives at Blackfriars,13:59
+Changes direction at Blackfriars,14:02
+At Blackfriars forms new service,9Y37 at 14:04
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y32
+
+Enters at T/F Loughborough Junction,14:21
+Arrives at Elephant & Castle,14:23
+Departs from Elephant & Castle,14:24
+Arrives at Blackfriars,14:29
+Changes direction at Blackfriars,14:32
+At Blackfriars forms new service,9Y39 at 14:34
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y34
+
+Enters at T/F Loughborough Junction,14:51
+Arrives at Elephant & Castle,14:53
+Departs from Elephant & Castle,14:54
+Arrives at Blackfriars,14:59
+Changes direction at Blackfriars,15:02
+At Blackfriars forms new service,9Y41 at 15:04
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y36
+
+Enters at T/F Loughborough Junction,15:21
+Arrives at Elephant & Castle,15:23
+Departs from Elephant & Castle,15:24
+Arrives at Blackfriars,15:29
+Changes direction at Blackfriars,15:32
+At Blackfriars forms new service,9Y43 at 15:34
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y38
+
+Enters at T/F Loughborough Junction,15:51
+Arrives at Elephant & Castle,15:53
+Departs from Elephant & Castle,15:54
+Arrives at Blackfriars,15:59
+Changes direction at Blackfriars,16:02
+At Blackfriars forms new service,9Y45 at 16:04
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y52
+
+Enters at T/F Loughborough Junction,19:21
+Arrives at Elephant & Castle,19:23
+Departs from Elephant & Castle,19:24
+Arrives at Blackfriars,19:29
+Changes direction at Blackfriars,19:32
+At Blackfriars forms new service,9Y59 at 19:34
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y54
+
+Enters at T/F Loughborough Junction,19:51
+Arrives at Elephant & Castle,19:53
+Departs from Elephant & Castle,19:54
+Arrives at Blackfriars,19:59
+Changes direction at Blackfriars,20:02
+At Blackfriars forms new service,9Y61 at 20:04
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y56
+
+Enters at T/F Loughborough Junction,20:21
+Arrives at Elephant & Castle,20:23
+Departs from Elephant & Castle,20:24
+Arrives at Blackfriars,20:29
+Changes direction at Blackfriars,20:32
+At Blackfriars forms new service,9Y63 at 20:34
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y58
+
+Enters at T/F Loughborough Junction,20:51
+Arrives at Elephant & Castle,20:53
+Departs from Elephant & Castle,20:54
+Arrives at Blackfriars,20:59
+Changes direction at Blackfriars,21:02
+At Blackfriars forms new service,9Y65 at 21:04
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y60
+
+Enters at T/F Loughborough Junction,21:21
+Arrives at Elephant & Castle,21:23
+Departs from Elephant & Castle,21:24
+Arrives at Blackfriars,21:29
+Changes direction at Blackfriars,21:32
+At Blackfriars forms new service,9Y67 at 21:34
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y62
+
+Enters at T/F Loughborough Junction,21:51
+Arrives at Elephant & Castle,21:53
+Departs from Elephant & Castle,21:54
+Arrives at Blackfriars,21:59
+Changes direction at Blackfriars,22:02
+At Blackfriars forms new service,9Y69 at 22:04
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y64
+
+Enters at T/F Loughborough Junction,22:21
+Arrives at Elephant & Castle,22:23
+Departs from Elephant & Castle,22:24
+Arrives at Blackfriars,22:29
+Changes direction at Blackfriars,22:32
+At Blackfriars forms new service,9Y71 at 22:34
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y66
+
+Enters at T/F Loughborough Junction,22:51
+Arrives at Elephant & Castle,22:53
+Departs from Elephant & Castle,22:54
+Arrives at Blackfriars,22:59
+Changes direction at Blackfriars,23:02
+At Blackfriars forms new service,9Y73 at 23:04
+
+
+Sevenoaks - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Y68
+
+Enters at T/F Loughborough Junction,23:21
+Arrives at Elephant & Castle,23:23
+Departs from Elephant & Castle,23:24
+Arrives at Blackfriars,23:29
+Changes direction at Blackfriars,23:32
+At Blackfriars forms new service,9Y75 at 23:34
+
+
+Bedford - Three Bridges [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R85,9R89
+
+Enters at T/F West Hampstead TL,07:17,08:17
+Passes Kentish Town,07:18,08:18
+Arrives at St. Pancras,07:24,08:24
+Departs from St. Pancras,07:25,08:25
+Passes Kings Cross TL (Closed),07:26,08:26
+Arrives at Farringdon,07:28,08:28
+Departs from Farringdon,07:29,08:29
+Arrives at City Thameslink,07:30,08:30
+Departs from City Thameslink,07:31,08:31
+Arrives at Blackfriars,07:33,08:33
+Departs from Blackfriars,07:34,08:34
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,07:36,08:36
+
+
+Bedford - Three Bridges [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9T81
+
+Enters at T/F West Hampstead TL,08:02
+Passes Kentish Town,08:03
+Arrives at St. Pancras,08:09
+Departs from St. Pancras,08:10
+Passes Kings Cross TL (Closed),08:11
+Arrives at Farringdon,08:13
+Departs from Farringdon,08:14
+Arrives at City Thameslink,08:15
+Departs from City Thameslink,08:16
+Arrives at Blackfriars,08:18
+Departs from Blackfriars,08:19
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,08:21
+
+
+Bedford - Three Bridges [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R05,9R07,9R09,9R11,9R13,9R15,9R17,9R19,9R21,9R23,9R25,9R27,9R29,9R31,9R33,9R35,9R37,9R39,9R41,9R43,9R45,9R47,9R49,9R51
+
+Enters at T/F West Hampstead TL,07:57,08:27,08:57,09:27,09:57,10:27,10:57,11:27,11:57,12:27,12:57,13:27,13:57,14:27,14:57,15:27,15:57,16:27,16:57,17:27,17:57,18:27,18:57,19:27
+Passes Kentish Town,07:58,08:28,08:58,09:28,09:58,10:28,10:58,11:28,11:58,12:28,12:58,13:28,13:58,14:28,14:58,15:28,15:58,16:28,16:58,17:28,17:58,18:28,18:58,19:28
+Arrives at St. Pancras,08:04,08:34,09:04,09:34,10:04,10:34,11:04,11:34,12:04,12:34,13:04,13:34,14:04,14:34,15:04,15:34,16:04,16:34,17:04,17:34,18:04,18:34,19:04,19:34
+Departs from St. Pancras,08:05,08:35,09:05,09:35,10:05,10:35,11:05,11:35,12:05,12:35,13:05,13:35,14:05,14:35,15:05,15:35,16:05,16:35,17:05,17:35,18:05,18:35,19:05,19:35
+Passes Kings Cross TL (Closed),08:06,08:36,09:06,09:36,10:06,10:36,11:06,11:36,12:06,12:36,13:06,13:36,14:06,14:36,15:06,15:36,16:06,16:36,17:06,17:36,18:06,18:36,19:06,19:36
+Arrives at Farringdon,08:08,08:38,09:08,09:38,10:08,10:38,11:08,11:38,12:08,12:38,13:08,13:38,14:08,14:38,15:08,15:38,16:08,16:38,17:08,17:38,18:08,18:38,19:08,19:38
+Departs from Farringdon,08:09,08:39,09:09,09:39,10:09,10:39,11:09,11:39,12:09,12:39,13:09,13:39,14:09,14:39,15:09,15:39,16:09,16:39,17:09,17:39,18:09,18:39,19:09,19:39
+Arrives at City Thameslink,08:10,08:40,09:10,09:40,10:10,10:40,11:10,11:40,12:10,12:40,13:10,13:40,14:10,14:40,15:10,15:40,16:10,16:40,17:10,17:40,18:10,18:40,19:10,19:40
+Departs from City Thameslink,08:11,08:41,09:11,09:41,10:11,10:41,11:11,11:41,12:11,12:41,13:11,13:41,14:11,14:41,15:11,15:41,16:11,16:41,17:11,17:41,18:11,18:41,19:11,19:41
+Arrives at Blackfriars,08:13,08:43,09:13,09:43,10:13,10:43,11:13,11:43,12:13,12:43,13:13,13:43,14:13,14:43,15:13,15:43,16:13,16:43,17:13,17:43,18:13,18:43,19:13,19:43
+Departs from Blackfriars,08:14,08:44,09:14,09:44,10:14,10:44,11:14,11:44,12:14,12:44,13:14,13:44,14:14,14:44,15:14,15:44,16:14,16:44,17:14,17:44,18:14,18:44,19:14,19:44
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,08:16,08:46,09:16,09:46,10:16,10:46,11:16,11:46,12:16,12:46,13:16,13:46,14:16,14:46,15:16,15:46,16:16,16:46,17:16,17:46,18:16,18:46,19:16,19:46
+
+
+Bedford - Three Bridges [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9N19
+
+Enters at T/F West Hampstead TL,24:15
+Arrives at Kentish Town,24:16
+Departs from Kentish Town,24:17
+Arrives at St. Pancras,24:23
+Departs from St. Pancras,24:24
+Passes Kings Cross TL (Closed),24:25
+Arrives at Farringdon,24:27
+Departs from Farringdon,24:28
+Passes City Thameslink,24:29
+Arrives at Blackfriars,24:31
+Departs from Blackfriars,24:32
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,24:34
+
+
+Bedford - Three Bridges [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9N01,9N05,9N09
+
+Enters at T/F West Hampstead TL,25:23,26:23,27:23
+Arrives at Kentish Town,25:24,26:24,27:24
+Departs from Kentish Town,25:25,26:25,27:25
+Arrives at St. Pancras,25:31,26:31,27:31
+Departs from St. Pancras,25:32,26:32,27:32
+Passes Kings Cross TL (Closed),25:33,26:33,27:33
+Arrives at Farringdon,25:35,26:35,27:35
+Departs from Farringdon,25:36,26:36,27:36
+Passes City Thameslink,25:37,26:37,27:37
+Arrives at Blackfriars,25:39,26:39,27:39
+Departs from Blackfriars,25:40,26:40,27:40
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,25:42,26:42,27:42
+
+
+Three Bridges - Bedford via. E&C P1 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9W08
+
+Enters at T/F Loughborough Junction,27:29
+Passes Elephant & Castle,27:31
+Arrives at Blackfriars,27:35
+Departs from Blackfriars,27:36
+Arrives at City Thameslink,27:37
+Departs from City Thameslink,27:38
+Passes Farringdon,27:40
+Passes Kings Cross TL (Closed),27:42
+Arrives at St. Pancras,27:43
+Departs from St. Pancras,27:44
+Arrives at Kentish Town,27:48
+Departs from Kentish Town,27:49
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,27:50
+
+
+Three Bridges - Bedford via. E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9W12
+
+Enters at T/F Loughborough Junction,04:29
+Passes Elephant & Castle,04:31
+Arrives at Blackfriars,04:35
+Departs from Blackfriars,04:36
+Arrives at City Thameslink,04:37
+Departs from City Thameslink,04:38
+Passes Farringdon,04:40
+Passes Kings Cross TL (Closed),04:42
+Arrives at St. Pancras,04:43
+Departs from St. Pancras,04:44
+Arrives at Kentish Town,04:48
+Departs from Kentish Town,04:49
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,04:50
+
+
+Three Bridges - Bedford via. E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9W14
+
+Enters at T/F Loughborough Junction,04:59
+Passes Elephant & Castle,05:01
+Arrives at Blackfriars,05:05
+Departs from Blackfriars,05:06
+Arrives at City Thameslink,05:07
+Departs from City Thameslink,05:08
+Arrives at Farringdon,05:10
+Departs from Farringdon,05:11
+Passes Kings Cross TL (Closed),05:13
+Arrives at St. Pancras,05:14
+Departs from St. Pancras,05:16
+Passes Kentish Town,05:20
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,05:21
+
+
+Three Bridges - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R02
+
+Enters at T/F London Bridge,05:56
+Arrives at Blackfriars,06:00
+Departs from Blackfriars,06:02
+Arrives at City Thameslink,06:03
+Departs from City Thameslink,06:04
+Arrives at Farringdon,06:05
+Departs from Farringdon,06:06
+Passes Kings Cross TL (Closed),06:09
+Arrives at St. Pancras,06:10
+Departs from St. Pancras,06:11
+Passes Kentish Town,06:15
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,06:16
+
+
+Three Bridges - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R04
+
+Enters at T/F London Bridge,06:22
+Arrives at Blackfriars,06:26
+Departs from Blackfriars,06:27
+Arrives at City Thameslink,06:28
+Departs from City Thameslink,06:29
+Arrives at Farringdon,06:30
+Departs from Farringdon,06:31
+Passes Kings Cross TL (Closed),06:34
+Arrives at St. Pancras,06:35
+Departs from St. Pancras,06:36
+Passes Kentish Town,06:40
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,06:41
+
+
+Three Bridges - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R16,9R18,9R20,9R22,9R24,9R26,9R28,9R30,9R32,9R34,9R36,9R38,9R40,9R42,9R44,9R46
+
+Enters at T/F London Bridge,09:22,09:52,10:22,10:52,11:22,11:52,12:22,12:52,13:22,13:52,14:22,14:52,15:22,15:52,16:22,16:52
+Arrives at Blackfriars,09:26,09:56,10:26,10:56,11:26,11:56,12:26,12:56,13:26,13:56,14:26,14:56,15:26,15:56,16:26,16:56
+Departs from Blackfriars,09:27,09:57,10:27,10:57,11:27,11:57,12:27,12:57,13:27,13:57,14:27,14:57,15:27,15:57,16:27,16:57
+Arrives at City Thameslink,09:28,09:58,10:28,10:58,11:28,11:58,12:28,12:58,13:28,13:58,14:28,14:58,15:28,15:58,16:28,16:58
+Departs from City Thameslink,09:29,09:59,10:29,10:59,11:29,11:59,12:29,12:59,13:29,13:59,14:29,14:59,15:29,15:59,16:29,16:59
+Arrives at Farringdon,09:30,10:00,10:30,11:00,11:30,12:00,12:30,13:00,13:30,14:00,14:30,15:00,15:30,16:00,16:30,17:00
+Departs from Farringdon,09:31,10:01,10:31,11:01,11:31,12:01,12:31,13:01,13:31,14:01,14:31,15:01,15:31,16:01,16:31,17:01
+Passes Kings Cross TL (Closed),09:34,10:04,10:34,11:04,11:34,12:04,12:34,13:04,13:34,14:04,14:34,15:04,15:34,16:04,16:34,17:04
+Arrives at St. Pancras,09:35,10:05,10:35,11:05,11:35,12:05,12:35,13:05,13:35,14:05,14:35,15:05,15:35,16:05,16:35,17:05
+Departs from St. Pancras,09:36,10:06,10:36,11:06,11:36,12:06,12:36,13:06,13:36,14:06,14:36,15:06,15:36,16:06,16:36,17:06
+Passes Kentish Town,09:40,10:10,10:40,11:10,11:40,12:10,12:40,13:10,13:40,14:10,14:40,15:10,15:40,16:10,16:40,17:10
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,09:41,10:11,10:41,11:11,11:41,12:11,12:41,13:11,13:41,14:11,14:41,15:11,15:41,16:11,16:41,17:11
+
+
+Three Bridges - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R92,9R94
+
+Enters at T/F London Bridge,17:22,17:52
+Arrives at Blackfriars,17:26,17:56
+Departs from Blackfriars,17:27,17:57
+Arrives at City Thameslink,17:28,17:58
+Departs from City Thameslink,17:29,17:59
+Arrives at Farringdon,17:30,18:00
+Departs from Farringdon,17:31,18:01
+Passes Kings Cross TL (Closed),17:34,18:04
+Arrives at St. Pancras,17:35,18:05
+Departs from St. Pancras,17:36,18:06
+Passes Kentish Town,17:40,18:10
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,17:41,18:11
+
+
+Three Bridges - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R52,9R54
+
+Enters at T/F London Bridge,18:22,18:52
+Arrives at Blackfriars,18:26,18:56
+Departs from Blackfriars,18:27,18:57
+Arrives at City Thameslink,18:28,18:58
+Departs from City Thameslink,18:29,18:59
+Arrives at Farringdon,18:30,19:00
+Departs from Farringdon,18:31,19:01
+Passes Kings Cross TL (Closed),18:34,19:04
+Arrives at St. Pancras,18:35,19:05
+Departs from St. Pancras,18:36,19:06
+Passes Kentish Town,18:40,19:10
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,18:41,19:11
+
+
+Three Bridges - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R64,9R66
+
+Enters at T/F London Bridge,21:22,21:52
+Arrives at Blackfriars,21:26,21:56
+Departs from Blackfriars,21:27,21:57
+Arrives at City Thameslink,21:28,21:58
+Departs from City Thameslink,21:29,21:59
+Arrives at Farringdon,21:30,22:00
+Departs from Farringdon,21:31,22:01
+Passes Kings Cross TL (Closed),21:34,22:04
+Arrives at St. Pancras,21:35,22:05
+Departs from St. Pancras,21:36,22:06
+Passes Kentish Town,21:40,22:10
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,21:41,22:11
+
+
+Three Bridges - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9N04
+
+Enters at T/F London Bridge,26:25
+Arrives at Blackfriars,26:30
+Departs from Blackfriars,26:38
+Arrives at City Thameslink,26:39
+Departs from City Thameslink,26:40
+Passes Farringdon,26:42
+Passes Kings Cross TL (Closed),26:44
+Arrives at St. Pancras,26:45
+Departs from St. Pancras,26:46
+Arrives at Kentish Town,26:50
+Departs from Kentish Town,26:51
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,26:52
+
+
+Luton - Sutton via E&C P2 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9V11,9V13,9V15
+
+Enters at T/F West Hampstead TL,05:04,05:34,06:04
+Arrives at Kentish Town,05:05,05:35,06:05
+Departs from Kentish Town,05:06,05:36,06:06
+Arrives at St. Pancras,05:11,05:41,06:11
+Departs from St. Pancras,05:12,05:42,06:12
+Arrives at Farringdon,05:16,05:46,06:16
+Departs from Farringdon,05:17,05:47,06:17
+Arrives at City Thameslink,05:18,05:48,06:18
+Departs from City Thameslink,05:19,05:49,06:19
+Arrives at Blackfriars,05:21,05:51,06:21
+Departs from Blackfriars,05:22,05:52,06:22
+Arrives at Elephant & Castle,05:24,05:54,06:24
+Departs from Elephant & Castle,05:25,05:55,06:25
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,05:28,05:58,06:28
+
+
+Luton - Sutton via E&C P4 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9O15
+
+Enters at T/F West Hampstead TL,06:15
+Arrives at Kentish Town,06:16
+Departs from Kentish Town,06:17
+Arrives at St. Pancras,06:23
+Departs from St. Pancras,06:27
+Arrives at Farringdon,06:31
+Departs from Farringdon,06:32
+Arrives at City Thameslink,06:33
+Departs from City Thameslink,06:34
+Arrives at Blackfriars,06:36
+Departs from Blackfriars,06:37
+Arrives at Elephant & Castle,06:39
+Departs from Elephant & Castle,06:40
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,06:43
+
+
+St. Albans City - Sutton via E&C P4 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9O17,9O19,9O21,9O23,9O25,9O27,9O29,9O31,9O33,9O35,9O37,9O39,9O41,9O43,9O45,9O47,9O49,9O51,9O53,9O55,9O57,9O59,9O61,9O63,9O65,9O67,9O69,9O71,9O73,9O75,9O77,9O79
+
+Enters at T/F West Hampstead TL,06:50,07:20,07:50,08:20,08:50,09:20,09:50,10:20,10:50,11:20,11:50,12:20,12:50,13:20,13:50,14:20,14:50,15:20,15:50,16:20,16:50,17:20,17:50,18:20,18:50,19:20,19:50,20:20,20:50,21:20,21:50,22:20
+Arrives at Kentish Town,06:51,07:21,07:51,08:21,08:51,09:21,09:51,10:21,10:51,11:21,11:51,12:21,12:51,13:21,13:51,14:21,14:51,15:21,15:51,16:21,16:51,17:21,17:51,18:21,18:51,19:21,19:51,20:21,20:51,21:21,21:51,22:21
+Departs from Kentish Town,06:52,07:22,07:52,08:22,08:52,09:22,09:52,10:22,10:52,11:22,11:52,12:22,12:52,13:22,13:52,14:22,14:52,15:22,15:52,16:22,16:52,17:22,17:52,18:22,18:52,19:22,19:52,20:22,20:52,21:22,21:52,22:22
+Arrives at St. Pancras,06:56,07:26,07:56,08:26,08:56,09:26,09:56,10:26,10:56,11:26,11:56,12:26,12:56,13:26,13:56,14:26,14:56,15:26,15:56,16:26,16:56,17:26,17:56,18:26,18:56,19:26,19:56,20:26,20:56,21:26,21:56,22:26
+Departs from St. Pancras,06:57,07:27,07:57,08:27,08:57,09:27,09:57,10:27,10:57,11:27,11:57,12:27,12:57,13:27,13:57,14:27,14:57,15:27,15:57,16:27,16:57,17:27,17:57,18:27,18:57,19:27,19:57,20:27,20:57,21:27,21:57,22:27
+Passes Kings Cross TL (Closed),06:58,07:28,07:58,08:28,08:58,09:28,09:58,10:28,10:58,11:28,11:58,12:28,12:58,13:28,13:58,14:28,14:58,15:28,15:58,16:28,16:58,17:28,17:58,18:28,18:58,19:28,19:58,20:28,20:58,21:28,21:58,22:28
+Arrives at Farringdon,07:01,07:31,08:01,08:31,09:01,09:31,10:01,10:31,11:01,11:31,12:01,12:31,13:01,13:31,14:01,14:31,15:01,15:31,16:01,16:31,17:01,17:31,18:01,18:31,19:01,19:31,20:01,20:31,21:01,21:31,22:01,22:31
+Departs from Farringdon,07:02,07:32,08:02,08:32,09:02,09:32,10:02,10:32,11:02,11:32,12:02,12:32,13:02,13:32,14:02,14:32,15:02,15:32,16:02,16:32,17:02,17:32,18:02,18:32,19:02,19:32,20:02,20:32,21:02,21:32,22:02,22:32
+Arrives at City Thameslink,07:03,07:33,08:03,08:33,09:03,09:33,10:03,10:33,11:03,11:33,12:03,12:33,13:03,13:33,14:03,14:33,15:03,15:33,16:03,16:33,17:03,17:33,18:03,18:33,19:03,19:33,20:03,20:33,21:03,21:33,22:03,22:33
+Departs from City Thameslink,07:04,07:34,08:04,08:34,09:04,09:34,10:04,10:34,11:04,11:34,12:04,12:34,13:04,13:34,14:04,14:34,15:04,15:34,16:04,16:34,17:04,17:34,18:04,18:34,19:04,19:34,20:04,20:34,21:04,21:34,22:04,22:34
+Arrives at Blackfriars,07:05,07:35,08:05,08:35,09:05,09:35,10:05,10:35,11:05,11:35,12:05,12:35,13:05,13:35,14:05,14:35,15:05,15:35,16:05,16:35,17:05,17:35,18:05,18:35,19:05,19:35,20:05,20:35,21:05,21:35,22:05,22:35
+Departs from Blackfriars,07:06,07:36,08:06,08:36,09:06,09:36,10:06,10:36,11:06,11:36,12:06,12:36,13:06,13:36,14:06,14:36,15:06,15:36,16:06,16:36,17:06,17:36,18:06,18:36,19:06,19:36,20:06,20:36,21:06,21:36,22:06,22:36
+Arrives at Elephant & Castle,07:09,07:39,08:09,08:39,09:09,09:39,10:09,10:39,11:09,11:39,12:09,12:39,13:09,13:39,14:09,14:39,15:09,15:39,16:09,16:39,17:09,17:39,18:09,18:39,19:09,19:39,20:09,20:39,21:09,21:39,22:09,22:39
+Departs from Elephant & Castle,07:10,07:40,08:10,08:40,09:10,09:40,10:10,10:40,11:10,11:40,12:10,12:40,13:10,13:40,14:10,14:40,15:10,15:40,16:10,16:40,17:10,17:40,18:10,18:40,19:10,19:40,20:10,20:40,21:10,21:40,22:10,22:40
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,07:13,07:43,08:13,08:43,09:13,09:43,10:13,10:43,11:13,11:43,12:13,12:43,13:13,13:43,14:13,14:43,15:13,15:43,16:13,16:43,17:13,17:43,18:13,18:43,19:13,19:43,20:13,20:43,21:13,21:43,22:13,22:43
+
+
+St. Albans City - Sutton via E&C P4 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9V19,9V21,9V23,9V25,9V27,9V29,9V31,9V33,9V35,9V37,9V39,9V41,9V43,9V45,9V47,9V49,9V51,9V53,9V55,9V57,9V59,9V61,9V63,9V65,9V67,9V69,9V71,9V73,9V75,9V77,9V79
+
+Enters at T/F West Hampstead TL,07:05,07:35,08:05,08:35,09:05,09:35,10:05,10:35,11:05,11:35,12:05,12:35,13:05,13:35,14:05,14:35,15:05,15:35,16:05,16:35,17:05,17:35,18:05,18:35,19:05,19:35,20:05,20:35,21:05,21:35,22:05
+Arrives at Kentish Town,07:06,07:36,08:06,08:36,09:06,09:36,10:06,10:36,11:06,11:36,12:06,12:36,13:06,13:36,14:06,14:36,15:06,15:36,16:06,16:36,17:06,17:36,18:06,18:36,19:06,19:36,20:06,20:36,21:06,21:36,22:06
+Departs from Kentish Town,07:07,07:37,08:07,08:37,09:07,09:37,10:07,10:37,11:07,11:37,12:07,12:37,13:07,13:37,14:07,14:37,15:07,15:37,16:07,16:37,17:07,17:37,18:07,18:37,19:07,19:37,20:07,20:37,21:07,21:37,22:07
+Arrives at St. Pancras,07:11,07:41,08:11,08:41,09:11,09:41,10:11,10:41,11:11,11:41,12:11,12:41,13:11,13:41,14:11,14:41,15:11,15:41,16:11,16:41,17:11,17:41,18:11,18:41,19:11,19:41,20:11,20:41,21:11,21:41,22:11
+Departs from St. Pancras,07:12,07:42,08:12,08:42,09:12,09:42,10:12,10:42,11:12,11:42,12:12,12:42,13:12,13:42,14:12,14:42,15:12,15:42,16:12,16:42,17:12,17:42,18:12,18:42,19:12,19:42,20:12,20:42,21:12,21:42,22:12
+Passes Kings Cross TL (Closed),07:13,07:43,08:13,08:43,09:13,09:43,10:13,10:43,11:13,11:43,12:13,12:43,13:13,13:43,14:13,14:43,15:13,15:43,16:13,16:43,17:13,17:43,18:13,18:43,19:13,19:43,20:13,20:43,21:13,21:43,22:13
+Arrives at Farringdon,07:16,07:46,08:16,08:46,09:16,09:46,10:16,10:46,11:16,11:46,12:16,12:46,13:16,13:46,14:16,14:46,15:16,15:46,16:16,16:46,17:16,17:46,18:16,18:46,19:16,19:46,20:16,20:46,21:16,21:46,22:16
+Departs from Farringdon,07:17,07:47,08:17,08:47,09:17,09:47,10:17,10:47,11:17,11:47,12:17,12:47,13:17,13:47,14:17,14:47,15:17,15:47,16:17,16:47,17:17,17:47,18:17,18:47,19:17,19:47,20:17,20:47,21:17,21:47,22:17
+Arrives at City Thameslink,07:18,07:48,08:18,08:48,09:18,09:48,10:18,10:48,11:18,11:48,12:18,12:48,13:18,13:48,14:18,14:48,15:18,15:48,16:18,16:48,17:18,17:48,18:18,18:48,19:18,19:48,20:18,20:48,21:18,21:48,22:18
+Departs from City Thameslink,07:19,07:49,08:19,08:49,09:19,09:49,10:19,10:49,11:19,11:49,12:19,12:49,13:19,13:49,14:19,14:49,15:19,15:49,16:19,16:49,17:19,17:49,18:19,18:49,19:19,19:49,20:19,20:49,21:19,21:49,22:19
+Arrives at Blackfriars,07:20,07:50,08:20,08:50,09:20,09:50,10:20,10:50,11:20,11:50,12:20,12:50,13:20,13:50,14:20,14:50,15:20,15:50,16:20,16:50,17:20,17:50,18:20,18:50,19:20,19:50,20:20,20:50,21:20,21:50,22:20
+Departs from Blackfriars,07:21,07:51,08:21,08:51,09:21,09:51,10:21,10:51,11:21,11:51,12:21,12:51,13:21,13:51,14:21,14:51,15:21,15:51,16:21,16:51,17:21,17:51,18:21,18:51,19:21,19:51,20:21,20:51,21:21,21:51,22:21
+Arrives at Elephant & Castle,07:24,07:54,08:24,08:54,09:24,09:54,10:24,10:54,11:24,11:54,12:24,12:54,13:24,13:54,14:24,14:54,15:24,15:54,16:24,16:54,17:24,17:54,18:24,18:54,19:24,19:54,20:24,20:54,21:24,21:54,22:24
+Departs from Elephant & Castle,07:25,07:55,08:25,08:55,09:25,09:55,10:25,10:55,11:25,11:55,12:25,12:55,13:25,13:55,14:25,14:55,15:25,15:55,16:25,16:55,17:25,17:55,18:25,18:55,19:25,19:55,20:25,20:55,21:25,21:55,22:25
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,07:28,07:58,08:28,08:58,09:28,09:58,10:28,10:58,11:28,11:58,12:28,12:58,13:28,13:58,14:28,14:58,15:28,15:58,16:28,16:58,17:28,17:58,18:28,18:58,19:28,19:58,20:28,20:58,21:28,21:58,22:28
+
+
+Sutton - St. Albans via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9V10,9V12,9V14,9V16,9V18,9V20,9V22,9V24,9V26,9V28,9V30,9V32,9V34,9V36,9V38,9V40,9V42,9V44,9V46,9V48,9V50,9V52,9V54,9V56,9V58,9V60,9V62,9V64,9V66,9V68,9V70,9V72
+
+Enters at T/F Loughborough Junction,06:16,06:46,07:16,07:46,08:16,08:46,09:16,09:46,10:16,10:46,11:16,11:46,12:16,12:46,13:16,13:46,14:16,14:46,15:16,15:46,16:16,16:46,17:16,17:46,18:16,18:46,19:16,19:46,20:16,20:46,21:16,21:46
+Arrives at Elephant & Castle,06:18,06:48,07:18,07:48,08:18,08:48,09:18,09:48,10:18,10:48,11:18,11:48,12:18,12:48,13:18,13:48,14:18,14:48,15:18,15:48,16:18,16:48,17:18,17:48,18:18,18:48,19:18,19:48,20:18,20:48,21:18,21:48
+Departs from Elephant & Castle,06:19,06:49,07:19,07:49,08:19,08:49,09:19,09:49,10:19,10:49,11:19,11:49,12:19,12:49,13:19,13:49,14:19,14:49,15:19,15:49,16:19,16:49,17:19,17:49,18:19,18:49,19:19,19:49,20:19,20:49,21:19,21:49
+Arrives at Blackfriars,06:23,06:53,07:23,07:53,08:23,08:53,09:23,09:53,10:23,10:53,11:23,11:53,12:23,12:53,13:23,13:53,14:23,14:53,15:23,15:53,16:23,16:53,17:23,17:53,18:23,18:53,19:23,19:53,20:23,20:53,21:23,21:53
+Departs from Blackfriars,06:24,06:54,07:24,07:54,08:24,08:54,09:24,09:54,10:24,10:54,11:24,11:54,12:24,12:54,13:24,13:54,14:24,14:54,15:24,15:54,16:24,16:54,17:24,17:54,18:24,18:54,19:24,19:54,20:24,20:54,21:24,21:54
+Arrives at City Thameslink,06:25,06:55,07:25,07:55,08:25,08:55,09:25,09:55,10:25,10:55,11:25,11:55,12:25,12:55,13:25,13:55,14:25,14:55,15:25,15:55,16:25,16:55,17:25,17:55,18:25,18:55,19:25,19:55,20:25,20:55,21:25,21:55
+Departs from City Thameslink,06:26,06:56,07:26,07:56,08:26,08:56,09:26,09:56,10:26,10:56,11:26,11:56,12:26,12:56,13:26,13:56,14:26,14:56,15:26,15:56,16:26,16:56,17:26,17:56,18:26,18:56,19:26,19:56,20:26,20:56,21:26,21:56
+Arrives at Farringdon,06:27,06:57,07:27,07:57,08:27,08:57,09:27,09:57,10:27,10:57,11:27,11:57,12:27,12:57,13:27,13:57,14:27,14:57,15:27,15:57,16:27,16:57,17:27,17:57,18:27,18:57,19:27,19:57,20:27,20:57,21:27,21:57
+Departs from Farringdon,06:28,06:58,07:28,07:58,08:28,08:58,09:28,09:58,10:28,10:58,11:28,11:58,12:28,12:58,13:28,13:58,14:28,14:58,15:28,15:58,16:28,16:58,17:28,17:58,18:28,18:58,19:28,19:58,20:28,20:58,21:28,21:58
+Passes Kings Cross TL (Closed),06:31,07:01,07:31,08:01,08:31,09:01,09:31,10:01,10:31,11:01,11:31,12:01,12:31,13:01,13:31,14:01,14:31,15:01,15:31,16:01,16:31,17:01,17:31,18:01,18:31,19:01,19:31,20:01,20:31,21:01,21:31,22:01
+Arrives at St. Pancras,06:32,07:02,07:32,08:02,08:32,09:02,09:32,10:02,10:32,11:02,11:32,12:02,12:32,13:02,13:32,14:02,14:32,15:02,15:32,16:02,16:32,17:02,17:32,18:02,18:32,19:02,19:32,20:02,20:32,21:02,21:32,22:02
+Departs from St. Pancras,06:33,07:03,07:33,08:03,08:33,09:03,09:33,10:03,10:33,11:03,11:33,12:03,12:33,13:03,13:33,14:03,14:33,15:03,15:33,16:03,16:33,17:03,17:33,18:03,18:33,19:03,19:33,20:03,20:33,21:03,21:33,22:03
+Arrives at Kentish Town,06:37,07:07,07:37,08:07,08:37,09:07,09:37,10:07,10:37,11:07,11:37,12:07,12:37,13:07,13:37,14:07,14:37,15:07,15:37,16:07,16:37,17:07,17:37,18:07,18:37,19:07,19:37,20:07,20:37,21:07,21:37,22:07
+Departs from Kentish Town,06:38,07:08,07:38,08:08,08:38,09:08,09:38,10:08,10:38,11:08,11:38,12:08,12:38,13:08,13:38,14:08,14:38,15:08,15:38,16:08,16:38,17:08,17:38,18:08,18:38,19:08,19:38,20:08,20:38,21:08,21:38,22:08
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,06:39,07:09,07:39,08:09,08:39,09:09,09:39,10:09,10:39,11:09,11:39,12:09,12:39,13:09,13:39,14:09,14:39,15:09,15:39,16:09,16:39,17:09,17:39,18:09,18:39,19:09,19:39,20:09,20:39,21:09,21:39,22:09
+
+
+Sutton - St. Albans via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9O10,9O12,9O14,9O16,9O18,9O20,9O22,9O24,9O26,9O28,9O30,9O32,9O34,9O36,9O38,9O40,9O42,9O44,9O46,9O48,9O50,9O52,9O54,9O56,9O58,9O60,9O62,9O64,9O66,9O68,9O70
+
+Enters at T/F Loughborough Junction,06:31,07:01,07:31,08:01,08:31,09:01,09:31,10:01,10:31,11:01,11:31,12:01,12:31,13:01,13:31,14:01,14:31,15:01,15:31,16:01,16:31,17:01,17:31,18:01,18:31,19:01,19:31,20:01,20:31,21:01,21:31
+Arrives at Elephant & Castle,06:33,07:03,07:33,08:03,08:33,09:03,09:33,10:03,10:33,11:03,11:33,12:03,12:33,13:03,13:33,14:03,14:33,15:03,15:33,16:03,16:33,17:03,17:33,18:03,18:33,19:03,19:33,20:03,20:33,21:03,21:33
+Departs from Elephant & Castle,06:34,07:04,07:34,08:04,08:34,09:04,09:34,10:04,10:34,11:04,11:34,12:04,12:34,13:04,13:34,14:04,14:34,15:04,15:34,16:04,16:34,17:04,17:34,18:04,18:34,19:04,19:34,20:04,20:34,21:04,21:34
+Arrives at Blackfriars,06:38,07:08,07:38,08:08,08:38,09:08,09:38,10:08,10:38,11:08,11:38,12:08,12:38,13:08,13:38,14:08,14:38,15:08,15:38,16:08,16:38,17:08,17:38,18:08,18:38,19:08,19:38,20:08,20:38,21:08,21:38
+Departs from Blackfriars,06:39,07:09,07:39,08:09,08:39,09:09,09:39,10:09,10:39,11:09,11:39,12:09,12:39,13:09,13:39,14:09,14:39,15:09,15:39,16:09,16:39,17:09,17:39,18:09,18:39,19:09,19:39,20:09,20:39,21:09,21:39
+Arrives at City Thameslink,06:40,07:10,07:40,08:10,08:40,09:10,09:40,10:10,10:40,11:10,11:40,12:10,12:40,13:10,13:40,14:10,14:40,15:10,15:40,16:10,16:40,17:10,17:40,18:10,18:40,19:10,19:40,20:10,20:40,21:10,21:40
+Departs from City Thameslink,06:41,07:11,07:41,08:11,08:41,09:11,09:41,10:11,10:41,11:11,11:41,12:11,12:41,13:11,13:41,14:11,14:41,15:11,15:41,16:11,16:41,17:11,17:41,18:11,18:41,19:11,19:41,20:11,20:41,21:11,21:41
+Arrives at Farringdon,06:42,07:12,07:42,08:12,08:42,09:12,09:42,10:12,10:42,11:12,11:42,12:12,12:42,13:12,13:42,14:12,14:42,15:12,15:42,16:12,16:42,17:12,17:42,18:12,18:42,19:12,19:42,20:12,20:42,21:12,21:42
+Departs from Farringdon,06:43,07:13,07:43,08:13,08:43,09:13,09:43,10:13,10:43,11:13,11:43,12:13,12:43,13:13,13:43,14:13,14:43,15:13,15:43,16:13,16:43,17:13,17:43,18:13,18:43,19:13,19:43,20:13,20:43,21:13,21:43
+Passes Kings Cross TL (Closed),06:46,07:16,07:46,08:16,08:46,09:16,09:46,10:16,10:46,11:16,11:46,12:16,12:46,13:16,13:46,14:16,14:46,15:16,15:46,16:16,16:46,17:16,17:46,18:16,18:46,19:16,19:46,20:16,20:46,21:16,21:46
+Arrives at St. Pancras,06:47,07:17,07:47,08:17,08:47,09:17,09:47,10:17,10:47,11:17,11:47,12:17,12:47,13:17,13:47,14:17,14:47,15:17,15:47,16:17,16:47,17:17,17:47,18:17,18:47,19:17,19:47,20:17,20:47,21:17,21:47
+Departs from St. Pancras,06:48,07:18,07:48,08:18,08:48,09:18,09:48,10:18,10:48,11:18,11:48,12:18,12:48,13:18,13:48,14:18,14:48,15:18,15:48,16:18,16:48,17:18,17:48,18:18,18:48,19:18,19:48,20:18,20:48,21:18,21:48
+Arrives at Kentish Town,06:52,07:22,07:52,08:22,08:52,09:22,09:52,10:22,10:52,11:22,11:52,12:22,12:52,13:22,13:52,14:22,14:52,15:22,15:52,16:22,16:52,17:22,17:52,18:22,18:52,19:22,19:52,20:22,20:52,21:22,21:52
+Departs from Kentish Town,06:53,07:23,07:53,08:23,08:53,09:23,09:53,10:23,10:53,11:23,11:53,12:23,12:53,13:23,13:53,14:23,14:53,15:23,15:53,16:23,16:53,17:23,17:53,18:23,18:53,19:23,19:53,20:23,20:53,21:23,21:53
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,06:54,07:24,07:54,08:24,08:54,09:24,09:54,10:24,10:54,11:24,11:54,12:24,12:54,13:24,13:54,14:24,14:54,15:24,15:54,16:24,16:54,17:24,17:54,18:24,18:54,19:24,19:54,20:24,20:54,21:24,21:54
+
+
+Luton - Rainham (Kent) [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9P11,9P13,9P15,9P17,9P19,9P21,9P23,9P25,9P27,9P29,9P31,9P33,9P35,9P37,9P39,9P41,9P43,9P45,9P47,9P49,9P51,9P53,9P55,9P57,9P59
+
+Enters at T/F West Hampstead TL,07:54,08:24,08:54,09:24,09:54,10:24,10:54,11:24,11:54,12:24,12:54,13:24,13:54,14:24,14:54,15:24,15:54,16:24,16:54,17:24,17:54,18:24,18:54,19:24,19:54
+Passes Kentish Town,07:55,08:25,08:55,09:25,09:55,10:25,10:55,11:25,11:55,12:25,12:55,13:25,13:55,14:25,14:55,15:25,15:55,16:25,16:55,17:25,17:55,18:25,18:55,19:25,19:55
+Arrives at St. Pancras,08:01,08:31,09:01,09:31,10:01,10:31,11:01,11:31,12:01,12:31,13:01,13:31,14:01,14:31,15:01,15:31,16:01,16:31,17:01,17:31,18:01,18:31,19:01,19:31,20:01
+Departs from St. Pancras,08:02,08:32,09:02,09:32,10:02,10:32,11:02,11:32,12:02,12:32,13:02,13:32,14:02,14:32,15:02,15:32,16:02,16:32,17:02,17:32,18:02,18:32,19:02,19:32,20:02
+Passes Kings Cross TL (Closed),08:03,08:33,09:03,09:33,10:03,10:33,11:03,11:33,12:03,12:33,13:03,13:33,14:03,14:33,15:03,15:33,16:03,16:33,17:03,17:33,18:03,18:33,19:03,19:33,20:03
+Arrives at Farringdon,08:06,08:36,09:06,09:36,10:06,10:36,11:06,11:36,12:06,12:36,13:06,13:36,14:06,14:36,15:06,15:36,16:06,16:36,17:06,17:36,18:06,18:36,19:06,19:36,20:06
+Departs from Farringdon,08:07,08:37,09:07,09:37,10:07,10:37,11:07,11:37,12:07,12:37,13:07,13:37,14:07,14:37,15:07,15:37,16:07,16:37,17:07,17:37,18:07,18:37,19:07,19:37,20:07
+Arrives at City Thameslink,08:08,08:38,09:08,09:38,10:08,10:38,11:08,11:38,12:08,12:38,13:08,13:38,14:08,14:38,15:08,15:38,16:08,16:38,17:08,17:38,18:08,18:38,19:08,19:38,20:08
+Departs from City Thameslink,08:09,08:39,09:09,09:39,10:09,10:39,11:09,11:39,12:09,12:39,13:09,13:39,14:09,14:39,15:09,15:39,16:09,16:39,17:09,17:39,18:09,18:39,19:09,19:39,20:09
+Arrives at Blackfriars,08:10,08:40,09:10,09:40,10:10,10:40,11:10,11:40,12:10,12:40,13:10,13:40,14:10,14:40,15:10,15:40,16:10,16:40,17:10,17:40,18:10,18:40,19:10,19:40,20:10
+Departs from Blackfriars,08:11,08:41,09:11,09:41,10:11,10:41,11:11,11:41,12:11,12:41,13:11,13:41,14:11,14:41,15:11,15:41,16:11,16:41,17:11,17:41,18:11,18:41,19:11,19:41,20:11
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,08:14,08:44,09:14,09:44,10:14,10:44,11:14,11:44,12:14,12:44,13:14,13:44,14:14,14:44,15:14,15:44,16:14,16:44,17:14,17:44,18:14,18:44,19:14,19:44,20:14
+
+
+Rainham (Kent) - Luton [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9P04,9P06,9P08,9P10,9P12,9P14,9P16,9P18,9P20,9P22,9P24,9P26,9P28,9P30,9P32,9P34,9P36,9P38,9P40,9P42,9P44,9P46,9P48,9P50
+
+Enters at T/F London Bridge,07:00,07:30,08:00,08:30,09:00,09:30,10:00,10:30,11:00,11:30,12:00,12:30,13:00,13:30,14:00,14:30,15:00,15:30,16:00,16:30,17:00,17:30,18:00,18:30
+Arrives at Blackfriars,07:03,07:33,08:03,08:33,09:03,09:33,10:03,10:33,11:03,11:33,12:03,12:33,13:03,13:33,14:03,14:33,15:03,15:33,16:03,16:33,17:03,17:33,18:03,18:33
+Departs from Blackfriars,07:04,07:34,08:04,08:34,09:04,09:34,10:04,10:34,11:04,11:34,12:04,12:34,13:04,13:34,14:04,14:34,15:04,15:34,16:04,16:34,17:04,17:34,18:04,18:34
+Arrives at City Thameslink,07:05,07:35,08:05,08:35,09:05,09:35,10:05,10:35,11:05,11:35,12:05,12:35,13:05,13:35,14:05,14:35,15:05,15:35,16:05,16:35,17:05,17:35,18:05,18:35
+Departs from City Thameslink,07:06,07:36,08:06,08:36,09:06,09:36,10:06,10:36,11:06,11:36,12:06,12:36,13:06,13:36,14:06,14:36,15:06,15:36,16:06,16:36,17:06,17:36,18:06,18:36
+Arrives at Farringdon,07:08,07:38,08:08,08:38,09:08,09:38,10:08,10:38,11:08,11:38,12:08,12:38,13:08,13:38,14:08,14:38,15:08,15:38,16:08,16:38,17:08,17:38,18:08,18:38
+Departs from Farringdon,07:09,07:39,08:09,08:39,09:09,09:39,10:09,10:39,11:09,11:39,12:09,12:39,13:09,13:39,14:09,14:39,15:09,15:39,16:09,16:39,17:09,17:39,18:09,18:39
+Passes Kings Cross TL (Closed),07:11,07:41,08:11,08:41,09:11,09:41,10:11,10:41,11:11,11:41,12:11,12:41,13:11,13:41,14:11,14:41,15:11,15:41,16:11,16:41,17:11,17:41,18:11,18:41
+Arrives at St. Pancras,07:12,07:42,08:12,08:42,09:12,09:42,10:12,10:42,11:12,11:42,12:12,12:42,13:12,13:42,14:12,14:42,15:12,15:42,16:12,16:42,17:12,17:42,18:12,18:42
+Departs from St. Pancras,07:13,07:43,08:13,08:43,09:13,09:43,10:13,10:43,11:13,11:43,12:13,12:43,13:13,13:43,14:13,14:43,15:13,15:43,16:13,16:43,17:13,17:43,18:13,18:43
+Passes Kentish Town,07:17,07:47,08:17,08:47,09:17,09:47,10:17,10:47,11:17,11:47,12:17,12:47,13:17,13:47,14:17,14:47,15:17,15:47,16:17,16:47,17:17,17:47,18:17,18:47
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,07:18,07:48,08:18,08:48,09:18,09:48,10:18,10:48,11:18,11:48,12:18,12:48,13:18,13:48,14:18,14:48,15:18,15:48,16:18,16:48,17:18,17:48,18:18,18:48
+
+
+Cricklewood Sidings - Sutton via E&C P4 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,5V10
+
+Enters at T/F West Hampstead TL,04:49
+Passes Kentish Town,04:50
+Passes St. Pancras,04:55
+Arrives at Farringdon,04:59
+Departs from Farringdon,05:00
+Passes City Thameslink,05:02
+Arrives at Blackfriars,05:03
+Departs from Blackfriars,05:04
+Passes Elephant & Castle,05:07
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,05:09
+
+
+Cricklewood Sidings - Blackfriars P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,5J01
+
+Enters at T/F West Hampstead TL,04:53
+Passes Kentish Town,04:54
+Passes St. Pancras,04:59
+Arrives at Farringdon,05:02
+Departs from Farringdon,05:03
+Passes City Thameslink,05:04
+Arrives at Blackfriars,05:06
+At Blackfriars forms new service,9Y01 at 05:06
+
+
+Bellingham Siding - Blackfriars P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,5Y03
+
+Enters at T/F Loughborough Junction,05:33
+Passes Elephant & Castle,05:35
+Arrives at Blackfriars,05:38
+Changes direction at Blackfriars,05:40
+At Blackfriars forms new service,9Y03 at 05:42
+
+
+Sevenoaks - Blackfriars P4 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,5Y71
+
+Enters at T/F Loughborough Junction,24:34
+Passes Elephant & Castle,24:36
+Arrives at Blackfriars,24:42
+Changes direction at Blackfriars,24:44
+Terminates at Blackfriars,24:44
+
+
+Cricklewood Sidings - St. Pancras TL [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,5L03
+
+Enters at T/F West Hampstead TL,05:46
+Passes Kentish Town,05:47
+Arrives at St. Pancras,05:52
+At St. Pancras forms new service,9L03 at 05:54
+
+
+Welwyn GC CSD - South Croydon via E&C P4 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,5W81
+
+Enters at T/F Finsbury Park,12:14
+Passes St. Pancras,12:17
+Passes Kings Cross TL (Closed),12:18
+Arrives at Farringdon,12:21
+Departs from Farringdon,12:22
+Arrives at City Thameslink,12:23
+Departs from City Thameslink,12:24
+Arrives at Blackfriars,12:25
+Departs from Blackfriars,12:26
+Passes Elephant & Castle,12:29
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,12:31
+
+
+South Croydon - Welwyn GC CSD [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,5W82
+
+Enters at T/F Loughborough Junction,13:52
+Passes Elephant & Castle,13:54
+Arrives at Blackfriars,13:58
+Departs from Blackfriars,13:59
+Arrives at City Thameslink,14:00
+Departs from City Thameslink,14:01
+Arrives at Farringdon,14:03
+Departs from Farringdon,14:04
+Passes Kings Cross TL (Closed),14:06
+Arrives at St. Pancras,14:07
+Departs from St. Pancras,14:08
+Exits railway at T/F Finsbury Park,
+allowable exit element(s): 30-6 ,14:12
+
+
+Cricklewood Sidings - Kentish Town P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,5O13
+
+Enters at T/F West Hampstead TL,05:49
+Arrives at Kentish Town,05:51
+At Kentish Town forms new service,9O13 at 05:51
+
+
+Cricklewood Sidings - Kentish Town P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,3K45
+
+Enters at T/F West Hampstead TL,15:44
+Arrives at Kentish Town,15:46
+At Kentish Town forms new service,9K45 at 15:48
+
+
+Orpington - Blackfriars P4 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,5Z98
+
+Enters at T/F Loughborough Junction,11:06
+Passes Elephant & Castle,11:08
+Arrives at Blackfriars,11:11
+Changes direction at Blackfriars,11:12
+At Blackfriars forms new service,5Z99 at 11:14
+
+
+Blackfriars - Orpington via E&C P2 [TL] - Class 700/0
+,5Z99
+
+New service at Blackfriars from,5Z98 at 11:14
+Departs from Blackfriars,11:20
+Passes Elephant & Castle,11:22
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,11:24
+
+
+Orpington - Cricklewood Sidings v. E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,5Y85
+
+Enters at T/F Loughborough Junction,20:35
+Arrives at Elephant & Castle,20:37
+Departs from Elephant & Castle,20:42
+Arrives at Blackfriars,20:45
+Departs from Blackfriars,20:47
+Arrives at City Thameslink,20:48
+Departs from City Thameslink,20:49
+Passes Farringdon,20:50
+Passes St. Pancras,20:54
+Passes Kentish Town,20:58
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,20:59
+
+
+Victoria - Blackfriars via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,5K01
+
+Enters at T/F Loughborough Junction,05:07
+Passes Elephant & Castle,05:09
+Arrives at Blackfriars,05:13
+Changes direction at Blackfriars,05:15
+At Blackfriars forms new service,9K01 at 05:16
+
+
+Blackfriars - Bellingham Siding v. E&C P2 [TL] - Class 700/0
+,5K86
+
+New service at Blackfriars from,9K86 at 19:22
+Departs from Blackfriars,19:26
+Passes Elephant & Castle,19:28
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,19:30
+
+
+Peterborough - Three Bridges [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,5J29
+
+Enters at T/F Finsbury Park,13:28
+Passes St. Pancras,13:32
+Passes Kings Cross TL (Closed),13:33
+Passes Farringdon,13:36
+Passes City Thameslink,13:38
+Passes Blackfriars,13:41
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,13:43
+
+
+Cricklewood Sidings - Kentish Town P4 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,5J33
+
+Enters at T/F West Hampstead TL,11:30
+Arrives at Kentish Town,11:32
+Changes direction at Kentish Town,11:33
+At Kentish Town forms new service,5J34 at 11:34
+
+
+Kentish Town - Cricklewood Sidings [TL] - Class 700/0
+,5J34
+
+New service at Kentish Town from,5J33 at 11:34
+Departs from Kentish Town,11:59
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,12:00
+
+
+Cricklewood Sidings - Kentish Town P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,5J36
+
+Enters at T/F West Hampstead TL,13:31
+Arrives at Kentish Town,13:33
+Changes direction at Kentish Town,13:34
+At Kentish Town forms new service,5J37 at 13:35
+
+
+Kentish Town - Cricklewood Sidings [TL] - Class 700/0
+,5J37
+
+New service at Kentish Town from,5J36 at 13:35
+Departs from Kentish Town,13:43
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,13:44
+
+
+Elephant & Castle - Bellingham Siding [TL] - Class 700/0
+,5K14
+
+New service at Elephant & Castle from,9K13 at 08:32
+Departs from Elephant & Castle,08:34
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,08:36
+
+
+Elephant & Castle - Bellingham Siding [TL] - Class 700/0
+,5K17
+
+New service at Elephant & Castle from,9K17 at 09:32
+Departs from Elephant & Castle,09:34
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,09:36
+
+
+Blackfriars - Cricklewood Sidings [TL] - Class 700/0
+,5J80
+
+New service at Blackfriars from,9Z80 at 23:30
+Departs from Blackfriars,23:32
+Arrives at City Thameslink,23:33
+Departs from City Thameslink,23:34
+Passes Farringdon,23:35
+Passes Kings Cross TL (Closed),23:37
+Passes St. Pancras,23:38
+Passes Kentish Town,23:42
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,23:43
+
+
+Blackfriars - Cricklewood Sidings [TL] - Class 700/1
+,5Z86
+
+New service at Blackfriars from,9Z85 at 23:56
+Departs from Blackfriars,23:59
+Arrives at City Thameslink,24:01
+Departs from City Thameslink,24:02
+Passes Farringdon,24:04
+Passes Kings Cross TL (Closed),24:06
+Passes St. Pancras,24:07
+Passes Kentish Town,24:13
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,24:14
+
+
+TBD TL UP TMD - Blackfriars P4 via E&C P1 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,5W76
+
+Enters at T/F Loughborough Junction,15:07
+Passes Elephant & Castle,15:09
+Arrives at Blackfriars,15:14
+Changes direction at Blackfriars,15:16
+At Blackfriars forms new service,5W77 at 15:18
+
+
+Blackfriars - TBD TL UP TMD via E&C P2 [TL] - Class 700/0
+,5W77
+
+New service at Blackfriars from,5W76 at 15:18
+Departs from Blackfriars,15:43
+Passes Elephant & Castle,15:45
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,15:49
+
+
+Blackfriars - Cricklewood Sidings [TL] - Class 700/0
+,5V84
+
+New service at Blackfriars from,9Z84 at 24:06
+Departs from Blackfriars,24:08
+Arrives at City Thameslink,24:09
+Departs from City Thameslink,24:10
+Passes Farringdon,24:11
+Passes Kings Cross TL (Closed),24:13
+Passes St. Pancras,24:14
+Passes Kentish Town,24:20
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,24:21
+
+
+Hornsey EMUD - TBD TL UP TMD via E&C P4 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,3W47
+
+Enters at T/F Finsbury Park,04:32
+Passes St. Pancras,04:35
+Passes Kings Cross TL (Closed),04:36
+Arrives at Farringdon,04:38
+Departs from Farringdon,04:39
+Passes City Thameslink,04:41
+Passes Blackfriars,04:42
+Passes Elephant & Castle,04:45
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,04:47
+
+
+Cricklewood Sidings - TBD TL UP TMD [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,3T83
+
+Enters at T/F West Hampstead TL,09:00
+Passes Kentish Town,09:01
+Arrives at St. Pancras,09:09
+Departs from St. Pancras,09:10
+Passes Kings Cross TL (Closed),09:11
+Arrives at Farringdon,09:13
+Departs from Farringdon,09:14
+Arrives at City Thameslink,09:15
+Departs from City Thameslink,09:16
+Arrives at Blackfriars,09:18
+Departs from Blackfriars,09:19
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-22 ,09:21
+
+
+TBD TL UP TMD - CRI Sdgs via KTN P3 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,3M20
+
+Enters at T/F London Bridge,09:55
+Arrives at Blackfriars,10:00
+Departs from Blackfriars,10:01
+Arrives at City Thameslink,10:02
+Departs from City Thameslink,10:03
+Passes Farringdon,10:06
+Passes Kings Cross TL (Closed),10:10
+Passes St. Pancras,10:11
+Arrives at Kentish Town,10:15
+Departs from Kentish Town,10:28
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,10:29
+
+
+Hornsey EMUD - TBD TL UP TMD [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,3T43
+
+Enters at T/F Finsbury Park,11:05
+Passes St. Pancras,11:09
+Passes Kings Cross TL (Closed),11:11
+Arrives at Farringdon,11:12
+Departs from Farringdon,11:13
+Passes City Thameslink,11:14
+Arrives at Blackfriars,11:15
+Departs from Blackfriars,11:16
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-22 ,11:19
+
+
+TBD TL UP TMD - Hornsey EMUD [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,3E44
+
+Enters at T/F London Bridge,14:58
+Arrives at Blackfriars,15:01
+Departs from Blackfriars,15:02
+Arrives at City Thameslink,15:03
+Departs from City Thameslink,15:04
+Passes Farringdon,15:07
+Passes Kings Cross TL (Closed),15:10
+Passes St. Pancras,15:11
+Exits railway at T/F Finsbury Park,
+allowable exit element(s): 30-6 ,15:13
+
+
+CRI Sdgs - Herne Hill Sdg via E&C P2 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,3O31
+
+Enters at T/F West Hampstead TL,19:09
+Passes Kentish Town,19:10
+Arrives at St. Pancras,19:16
+Departs from St. Pancras,19:17
+Passes Kings Cross TL (Closed),19:18
+Arrives at Farringdon,19:21
+Departs from Farringdon,19:22
+Arrives at City Thameslink,19:23
+Departs from City Thameslink,19:24
+Arrives at Blackfriars,19:25
+Departs from Blackfriars,19:26
+Passes Elephant & Castle,19:31
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,19:33
+
+
+Herne Hill Sdgs - Hornsey EMUD via E&C P1 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,3E32
+
+Enters at T/F Loughborough Junction,19:55
+Passes Elephant & Castle,19:57
+Passes Blackfriars,20:01
+Arrives at City Thameslink,20:02
+Departs from City Thameslink,20:03
+Passes Farringdon,20:06
+Passes Kings Cross TL (Closed),20:10
+Passes St. Pancras,20:11
+Exits railway at T/F Finsbury Park,
+allowable exit element(s): 30-6 ,20:13
+
+
+TBD TL UP TMD - CRI Sdgs [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,3M84
+
+Enters at T/F London Bridge,20:55
+Arrives at Blackfriars,21:01
+Departs from Blackfriars,21:02
+Arrives at City Thameslink,21:03
+Departs from City Thameslink,21:04
+Passes Farringdon,21:06
+Passes Kings Cross TL (Closed),21:10
+Passes St. Pancras,21:11
+Passes Kentish Town,21:15
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,21:16
+
+
+TBD TL UP TMD - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,3M01
+
+Enters at T/F London Bridge,21:55
+Passes Blackfriars,22:01
+Arrives at City Thameslink,22:02
+Departs from City Thameslink,22:03
+Passes Farringdon,22:04
+Passes Kings Cross TL (Closed),22:07
+Passes St. Pancras,22:08
+Passes Kentish Town,22:13
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,22:14
+
+
+TBD TL UP TMD - Hornsey EMUD [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,3E46
+
+Enters at T/F London Bridge,22:48
+Passes Blackfriars,22:51
+Arrives at City Thameslink,22:52
+Departs from City Thameslink,22:53
+Passes Farringdon,22:55
+Passes Kings Cross TL (Closed),22:57
+Passes St. Pancras,22:58
+Exits railway at T/F Finsbury Park,
+allowable exit element(s): 30-6 ,23:00
+
+
+Bedford - TBD TL UP TMD via E&C P4 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,3T02
+
+Enters at T/F West Hampstead TL,24:28
+Passes Kentish Town,24:29
+Passes St. Pancras,24:32
+Passes Kings Cross TL (Closed),24:33
+Arrives at Farringdon,24:35
+Departs from Farringdon,24:36
+Passes City Thameslink,24:37
+Arrives at Blackfriars,24:38
+Departs from Blackfriars,24:39
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,24:41
+
+
+Brighton - West Hampstead TL via E&C P1 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9W16,9W18,9W20
+
+Enters at T/F Loughborough Junction,23:58,24:28,24:58
+Passes Elephant & Castle,24:01,24:31,25:01
+Arrives at Blackfriars,24:05,24:35,25:05
+Departs from Blackfriars,24:06,24:36,25:06
+Arrives at City Thameslink,24:07,24:37,25:07
+Departs from City Thameslink,24:08,24:38,25:08
+Arrives at Farringdon,24:10,24:40,25:10
+Departs from Farringdon,24:11,24:41,25:11
+Passes Kings Cross TL (Closed),24:14,24:44,25:14
+Arrives at St. Pancras,24:15,24:45,25:15
+Departs from St. Pancras,24:16,24:46,25:16
+Arrives at Kentish Town,24:20,24:50,25:20
+Departs from Kentish Town,24:21,24:51,25:21
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,24:22,24:52,25:22
+
+
+Brighton - West Hampstead TL via E&C P1 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9W00
+
+Enters at T/F Loughborough Junction,25:30
+Passes Elephant & Castle,25:32
+Arrives at Blackfriars,25:35
+Departs from Blackfriars,25:36
+Arrives at City Thameslink,25:37
+Departs from City Thameslink,25:38
+Passes Farringdon,25:40
+Passes Kings Cross TL (Closed),25:42
+Arrives at St. Pancras,25:43
+Departs from St. Pancras,25:44
+Arrives at Kentish Town,25:48
+Departs from Kentish Town,25:49
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,25:50
+
+
+Three Bridges - W. Hampstead TL v. E&C P1 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9W04
+
+Enters at T/F Loughborough Junction,26:30
+Passes Elephant & Castle,26:32
+Arrives at Blackfriars,26:35
+Departs from Blackfriars,26:36
+Arrives at City Thameslink,26:37
+Departs from City Thameslink,26:38
+Passes Farringdon,26:40
+Passes Kings Cross TL (Closed),26:42
+Arrives at St. Pancras,26:43
+Departs from St. Pancras,26:44
+Arrives at Kentish Town,26:48
+Departs from Kentish Town,26:49
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,26:50
+
+
+Rainham (Kent) - West Hampstead TL [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9P82,9P84
+
+Enters at T/F London Bridge,18:59,19:29
+Arrives at Blackfriars,19:03,19:33
+Departs from Blackfriars,19:04,19:34
+Arrives at City Thameslink,19:05,19:35
+Departs from City Thameslink,19:06,19:36
+Arrives at Farringdon,19:08,19:38
+Departs from Farringdon,19:09,19:39
+Passes Kings Cross TL (Closed),19:11,19:41
+Arrives at St. Pancras,19:12,19:42
+Departs from St. Pancras,19:13,19:43
+Passes Kentish Town,19:17,19:47
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,19:18,19:48
+
+
+East Grinstead - West Hampstead TL [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9L66
+
+Enters at T/F London Bridge,19:42
+Arrives at Blackfriars,19:46
+Departs from Blackfriars,19:47
+Arrives at City Thameslink,19:48
+Departs from City Thameslink,19:49
+Arrives at Farringdon,19:51
+Departs from Farringdon,19:52
+Passes Kings Cross TL (Closed),19:54
+Arrives at St. Pancras,19:55
+Departs from St. Pancras,19:56
+Passes Kentish Town,20:00
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,20:01
+
+
+Rainham (Kent) - West Hampstead TL [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9P86,9P88
+
+Enters at T/F London Bridge,22:59,23:29
+Arrives at Blackfriars,23:03,23:33
+Departs from Blackfriars,23:04,23:34
+Arrives at City Thameslink,23:05,23:35
+Departs from City Thameslink,23:06,23:36
+Arrives at Farringdon,23:08,23:38
+Departs from Farringdon,23:09,23:39
+Passes Kings Cross TL (Closed),23:11,23:41
+Arrives at St. Pancras,23:12,23:42
+Departs from St. Pancras,23:13,23:43
+Passes Kentish Town,23:17,23:47
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,23:18,23:48
+
+
+W. Hampstead TL - Three Bridges v. E&C P4 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9W19
+
+Enters at T/F West Hampstead TL,24:15
+Arrives at Kentish Town,24:16
+Departs from Kentish Town,24:17
+Arrives at St. Pancras,24:21
+Departs from St. Pancras,24:22
+Passes Kings Cross TL (Closed),24:23
+Passes Farringdon,24:25
+Passes City Thameslink,24:29
+Arrives at Blackfriars,24:31
+Departs from Blackfriars,24:32
+Passes Elephant & Castle,24:34
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,24:36
+
+
+West Hampstead TL - Brighton via E&C P4 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9W21
+
+Enters at T/F West Hampstead TL,24:45
+Passes Kentish Town,24:46
+Arrives at St. Pancras,24:51
+Departs from St. Pancras,24:52
+Passes Kings Cross TL (Closed),24:53
+Arrives at Farringdon,24:55
+Departs from Farringdon,24:56
+Passes City Thameslink,24:57
+Arrives at Blackfriars,24:59
+Departs from Blackfriars,25:02
+Passes Elephant & Castle,25:04
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,25:06
+
+
+W. Hampstead TL - Three Bridges v. E&C P4 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9O11
+
+Enters at T/F West Hampstead TL,05:19
+Arrives at Kentish Town,05:20
+Departs from Kentish Town,05:21
+Arrives at St. Pancras,05:27
+Departs from St. Pancras,05:28
+Passes Kings Cross TL (Closed),05:29
+Arrives at Farringdon,05:31
+Departs from Farringdon,05:32
+Arrives at City Thameslink,05:33
+Departs from City Thameslink,05:34
+Arrives at Blackfriars,05:35
+Departs from Blackfriars,05:36
+Arrives at Elephant & Castle,05:39
+Departs from Elephant & Castle,05:40
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,05:42
+
+
+West Hampstead TL - Rainham (Kent) [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9P99
+
+Enters at T/F West Hampstead TL,05:23
+Arrives at Kentish Town,05:24
+Departs from Kentish Town,05:25
+Arrives at St. Pancras,05:29
+Departs from St. Pancras,05:30
+Passes Kings Cross TL (Closed),05:31
+Arrives at Farringdon,05:34
+Departs from Farringdon,05:35
+Arrives at City Thameslink,05:36
+Departs from City Thameslink,05:37
+Arrives at Blackfriars,05:38
+Departs from Blackfriars,05:39
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,05:42
+
+
+West Hampstead TL - Rainham (Kent) [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9P03,9P05
+
+Enters at T/F West Hampstead TL,05:54,06:24
+Arrives at Kentish Town,05:55,06:25
+Departs from Kentish Town,05:56,06:26
+Arrives at St. Pancras,06:01,06:31
+Departs from St. Pancras,06:02,06:32
+Passes Kings Cross TL (Closed),06:03,06:33
+Arrives at Farringdon,06:06,06:36
+Departs from Farringdon,06:07,06:37
+Arrives at City Thameslink,06:08,06:38
+Departs from City Thameslink,06:09,06:39
+Arrives at Blackfriars,06:10,06:40
+Departs from Blackfriars,06:11,06:41
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,06:14,06:44
+
+
+West Hampstead TL - Sutton via E&C P4 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9V17
+
+Enters at T/F West Hampstead TL,06:35
+Arrives at Kentish Town,06:36
+Departs from Kentish Town,06:37
+Arrives at St. Pancras,06:41
+Departs from St. Pancras,06:42
+Passes Kings Cross TL (Closed),06:43
+Arrives at Farringdon,06:46
+Departs from Farringdon,06:47
+Arrives at City Thameslink,06:48
+Departs from City Thameslink,06:49
+Arrives at Blackfriars,06:50
+Departs from Blackfriars,06:51
+Arrives at Elephant & Castle,06:54
+Departs from Elephant & Castle,06:55
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,06:58
+
+
+Orpington - Kentish Town P3 via E&C P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K44
+
+Enters at T/F Loughborough Junction,16:11
+Arrives at Elephant & Castle,16:13
+Departs from Elephant & Castle,16:14
+Arrives at Blackfriars,16:18
+Departs from Blackfriars,16:19
+Arrives at City Thameslink,16:21
+Departs from City Thameslink,16:22
+Arrives at Farringdon,16:23
+Departs from Farringdon,16:24
+Passes Kings Cross TL (Closed),16:26
+Arrives at St. Pancras,16:27
+Departs from St. Pancras,16:28
+Arrives at Kentish Town,16:33
+Changes direction at Kentish Town,16:35
+At Kentish Town forms new service,9K47 at 16:36
+
+
+Orpington - Kentish Town P3 via E&C P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K46
+
+Enters at T/F Loughborough Junction,16:41
+Arrives at Elephant & Castle,16:43
+Departs from Elephant & Castle,16:44
+Arrives at Blackfriars,16:48
+Departs from Blackfriars,16:49
+Arrives at City Thameslink,16:51
+Departs from City Thameslink,16:52
+Arrives at Farringdon,16:53
+Departs from Farringdon,16:54
+Passes Kings Cross TL (Closed),16:56
+Arrives at St. Pancras,16:57
+Departs from St. Pancras,16:58
+Arrives at Kentish Town,17:03
+Changes direction at Kentish Town,17:05
+At Kentish Town forms new service,9K49 at 17:06
+
+
+Orpington - Kentish Town P3 via E&C P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K48
+
+Enters at T/F Loughborough Junction,17:11
+Arrives at Elephant & Castle,17:13
+Departs from Elephant & Castle,17:14
+Arrives at Blackfriars,17:18
+Departs from Blackfriars,17:19
+Arrives at City Thameslink,17:21
+Departs from City Thameslink,17:22
+Arrives at Farringdon,17:23
+Departs from Farringdon,17:24
+Passes Kings Cross TL (Closed),17:26
+Arrives at St. Pancras,17:27
+Departs from St. Pancras,17:28
+Arrives at Kentish Town,17:33
+Changes direction at Kentish Town,17:35
+At Kentish Town forms new service,9K53 at 17:36
+
+
+Rainham (Kent) - Kentish Town P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9P56
+
+Enters at T/F London Bridge,19:59
+Arrives at Blackfriars,20:03
+Departs from Blackfriars,20:04
+Arrives at City Thameslink,20:06
+Departs from City Thameslink,20:07
+Arrives at Farringdon,20:08
+Departs from Farringdon,20:09
+Passes Kings Cross TL (Closed),20:11
+Arrives at St. Pancras,20:12
+Departs from St. Pancras,20:13
+Arrives at Kentish Town,20:18
+Changes direction at Kentish Town,20:20
+At Kentish Town forms new service,9P61 at 20:22
+
+
+Rainham (Kent) - Kentish Town P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9P58
+
+Enters at T/F London Bridge,20:29
+Arrives at Blackfriars,20:33
+Departs from Blackfriars,20:34
+Arrives at City Thameslink,20:36
+Departs from City Thameslink,20:37
+Arrives at Farringdon,20:38
+Departs from Farringdon,20:39
+Passes Kings Cross TL (Closed),20:41
+Arrives at St. Pancras,20:42
+Departs from St. Pancras,20:43
+Arrives at Kentish Town,20:48
+Changes direction at Kentish Town,20:50
+At Kentish Town forms new service,9P63 at 20:52
+
+
+Rainham (Kent) - Kentish Town P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9P60
+
+Enters at T/F London Bridge,20:59
+Arrives at Blackfriars,21:03
+Departs from Blackfriars,21:04
+Arrives at City Thameslink,21:06
+Departs from City Thameslink,21:07
+Arrives at Farringdon,21:08
+Departs from Farringdon,21:09
+Passes Kings Cross TL (Closed),21:11
+Arrives at St. Pancras,21:12
+Departs from St. Pancras,21:13
+Arrives at Kentish Town,21:18
+Changes direction at Kentish Town,21:20
+At Kentish Town forms new service,9P65 at 21:22
+
+
+Rainham (Kent) - Kentish Town P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9P62
+
+Enters at T/F London Bridge,21:29
+Arrives at Blackfriars,21:33
+Departs from Blackfriars,21:34
+Arrives at City Thameslink,21:36
+Departs from City Thameslink,21:37
+Arrives at Farringdon,21:38
+Departs from Farringdon,21:39
+Passes Kings Cross TL (Closed),21:41
+Arrives at St. Pancras,21:42
+Departs from St. Pancras,21:43
+Arrives at Kentish Town,21:48
+Changes direction at Kentish Town,21:50
+At Kentish Town forms new service,9P67 at 21:52
+
+
+Rainham (Kent) - Kentish Town P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9P64
+
+Enters at T/F London Bridge,21:59
+Arrives at Blackfriars,22:03
+Departs from Blackfriars,22:04
+Arrives at City Thameslink,22:06
+Departs from City Thameslink,22:07
+Arrives at Farringdon,22:08
+Departs from Farringdon,22:09
+Passes Kings Cross TL (Closed),22:11
+Arrives at St. Pancras,22:12
+Departs from St. Pancras,22:13
+Arrives at Kentish Town,22:18
+Changes direction at Kentish Town,22:20
+At Kentish Town forms new service,9P69 at 22:22
+
+
+Rainham (Kent) - Kentish Town P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9P66
+
+Enters at T/F London Bridge,22:29
+Arrives at Blackfriars,22:33
+Departs from Blackfriars,22:34
+Arrives at City Thameslink,22:36
+Departs from City Thameslink,22:37
+Arrives at Farringdon,22:38
+Departs from Farringdon,22:39
+Passes Kings Cross TL (Closed),22:41
+Arrives at St. Pancras,22:42
+Departs from St. Pancras,22:43
+Arrives at Kentish Town,22:48
+Changes direction at Kentish Town,22:50
+At Kentish Town forms new service,9P71 at 22:52
+
+
+Kentish Town - Sutton via E&C P4 [TL] - Class 700/0
+,9O13
+
+New service at Kentish Town from,5O13 at 05:51
+Departs from Kentish Town,05:52
+Arrives at St. Pancras,05:56
+Departs from St. Pancras,05:57
+Arrives at Farringdon,06:01
+Departs from Farringdon,06:02
+Arrives at City Thameslink,06:03
+Departs from City Thameslink,06:04
+Arrives at Blackfriars,06:05
+Departs from Blackfriars,06:06
+Arrives at Elephant & Castle,06:09
+Departs from Elephant & Castle,06:10
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,06:12
+
+
+Kentish Town - Orpington via E&C P4 [TL] - Class 700/0
+,9K45
+
+New service at Kentish Town from,3K45 at 15:48
+Departs from Kentish Town,16:11
+Arrives at St. Pancras,16:16
+Departs from St. Pancras,16:17
+Arrives at Farringdon,16:21
+Departs from Farringdon,16:22
+Arrives at City Thameslink,16:23
+Departs from City Thameslink,16:24
+Arrives at Blackfriars,16:25
+Departs from Blackfriars,16:26
+Arrives at Elephant & Castle,16:29
+Departs from Elephant & Castle,16:30
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,16:32
+
+
+Kentish Town - Orpington via E&C P4 [TL] - Class 700/0
+,9K47
+
+New service at Kentish Town from,9K44 at 16:36
+Departs from Kentish Town,16:41
+Arrives at St. Pancras,16:46
+Departs from St. Pancras,16:47
+Arrives at Farringdon,16:51
+Departs from Farringdon,16:52
+Arrives at City Thameslink,16:53
+Departs from City Thameslink,16:54
+Arrives at Blackfriars,16:55
+Departs from Blackfriars,16:56
+Arrives at Elephant & Castle,16:59
+Departs from Elephant & Castle,17:00
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,17:02
+
+
+Kentish Town - Orpington via E&C P4 [TL] - Class 700/0
+,9K49
+
+New service at Kentish Town from,9K46 at 17:06
+Departs from Kentish Town,17:11
+Arrives at St. Pancras,17:16
+Departs from St. Pancras,17:17
+Arrives at Farringdon,17:21
+Departs from Farringdon,17:22
+Arrives at City Thameslink,17:23
+Departs from City Thameslink,17:24
+Arrives at Blackfriars,17:25
+Departs from Blackfriars,17:26
+Arrives at Elephant & Castle,17:29
+Departs from Elephant & Castle,17:30
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,17:32
+
+
+Kentish Town - Orpington via E&C P4 [TL] - Class 700/0
+,9K53
+
+New service at Kentish Town from,9K48 at 17:36
+Departs from Kentish Town,17:41
+Arrives at St. Pancras,17:46
+Departs from St. Pancras,17:47
+Arrives at Farringdon,17:51
+Departs from Farringdon,17:52
+Arrives at City Thameslink,17:53
+Departs from City Thameslink,17:54
+Arrives at Blackfriars,17:55
+Departs from Blackfriars,17:56
+Arrives at Elephant & Castle,17:59
+Departs from Elephant & Castle,18:00
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,18:02
+
+
+Kentish Town - Rainham (Kent) [TL] - Class 700/0
+,9P61
+
+New service at Kentish Town from,9P56 at 20:22
+Departs from Kentish Town,20:26
+Arrives at St. Pancras,20:31
+Departs from St. Pancras,20:32
+Arrives at Farringdon,20:36
+Departs from Farringdon,20:37
+Arrives at City Thameslink,20:38
+Departs from City Thameslink,20:39
+Arrives at Blackfriars,20:40
+Departs from Blackfriars,20:41
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,20:44
+
+
+Kentish Town - Rainham (Kent) [TL] - Class 700/0
+,9P63
+
+New service at Kentish Town from,9P58 at 20:52
+Departs from Kentish Town,20:56
+Arrives at St. Pancras,21:01
+Departs from St. Pancras,21:02
+Arrives at Farringdon,21:06
+Departs from Farringdon,21:07
+Arrives at City Thameslink,21:08
+Departs from City Thameslink,21:09
+Arrives at Blackfriars,21:10
+Departs from Blackfriars,21:11
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,21:14
+
+
+Kentish Town - Rainham (Kent) [TL] - Class 700/0
+,9P65
+
+New service at Kentish Town from,9P60 at 21:22
+Departs from Kentish Town,21:26
+Arrives at St. Pancras,21:31
+Departs from St. Pancras,21:32
+Arrives at Farringdon,21:36
+Departs from Farringdon,21:37
+Arrives at City Thameslink,21:38
+Departs from City Thameslink,21:39
+Arrives at Blackfriars,21:40
+Departs from Blackfriars,21:41
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,21:44
+
+
+Kentish Town - Rainham (Kent) [TL] - Class 700/0
+,9P67
+
+New service at Kentish Town from,9P62 at 21:52
+Departs from Kentish Town,21:56
+Arrives at St. Pancras,22:01
+Departs from St. Pancras,22:02
+Arrives at Farringdon,22:06
+Departs from Farringdon,22:07
+Arrives at City Thameslink,22:08
+Departs from City Thameslink,22:09
+Arrives at Blackfriars,22:10
+Departs from Blackfriars,22:11
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,22:14
+
+
+Kentish Town - Rainham (Kent) [TL] - Class 700/0
+,9P69
+
+New service at Kentish Town from,9P64 at 22:22
+Departs from Kentish Town,22:26
+Arrives at St. Pancras,22:31
+Departs from St. Pancras,22:32
+Arrives at Farringdon,22:36
+Departs from Farringdon,22:37
+Arrives at City Thameslink,22:38
+Departs from City Thameslink,22:39
+Arrives at Blackfriars,22:40
+Departs from Blackfriars,22:41
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,22:44
+
+
+Kentish Town - Rainham (Kent) [TL] - Class 700/0
+,9P71
+
+New service at Kentish Town from,9P66 at 22:52
+Departs from Kentish Town,22:56
+Arrives at St. Pancras,23:01
+Departs from St. Pancras,23:02
+Arrives at Farringdon,23:06
+Departs from Farringdon,23:07
+Arrives at City Thameslink,23:08
+Departs from City Thameslink,23:09
+Arrives at Blackfriars,23:10
+Departs from Blackfriars,23:11
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,23:14
+
+
+Haywards Heath - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R12,9R14
+
+Enters at T/F London Bridge,08:22,08:52
+Arrives at Blackfriars,08:26,08:56
+Departs from Blackfriars,08:27,08:57
+Arrives at City Thameslink,08:28,08:58
+Departs from City Thameslink,08:29,08:59
+Arrives at Farringdon,08:30,09:00
+Departs from Farringdon,08:31,09:01
+Passes Kings Cross TL (Closed),08:34,09:04
+Arrives at St. Pancras,08:35,09:05
+Departs from St. Pancras,08:36,09:06
+Passes Kentish Town,08:41,09:11
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,08:42,09:12
+
+
+East Grinstead - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9L04,9L06,9L08
+
+Enters at T/F London Bridge,07:42,08:12,08:42
+Arrives at Blackfriars,07:46,08:16,08:46
+Departs from Blackfriars,07:47,08:17,08:47
+Arrives at City Thameslink,07:48,08:18,08:48
+Departs from City Thameslink,07:49,08:19,08:49
+Arrives at Farringdon,07:50,08:20,08:50
+Departs from Farringdon,07:51,08:21,08:51
+Passes Kings Cross TL (Closed),07:54,08:24,08:54
+Arrives at St. Pancras,07:55,08:25,08:55
+Departs from St. Pancras,07:56,08:26,08:56
+Passes Kentish Town,08:00,08:30,09:00
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,08:01,08:31,09:01
+
+
+East Grinstead - Bedford [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9L24
+
+Enters at T/F London Bridge,19:12
+Arrives at Blackfriars,19:16
+Departs from Blackfriars,19:17
+Arrives at City Thameslink,19:18
+Departs from City Thameslink,19:19
+Arrives at Farringdon,19:20
+Departs from Farringdon,19:21
+Passes Kings Cross TL (Closed),19:24
+Arrives at St. Pancras,19:25
+Departs from St. Pancras,19:26
+Passes Kentish Town,19:30
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,19:31
+
+
+St. Pancras Intl. - East Grinstead [TL] - Class 700/1
+,9L03
+
+New service at St. Pancras from,5L03 at 05:54
+Departs from St. Pancras,05:55
+Passes Kings Cross TL (Closed),05:56
+Arrives at Farringdon,05:58
+Departs from Farringdon,05:59
+Arrives at City Thameslink,06:00
+Departs from City Thameslink,06:01
+Arrives at Blackfriars,06:03
+Departs from Blackfriars,06:04
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,06:06
+
+
+Bedford - East Grinstead [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9L81
+
+Enters at T/F West Hampstead TL,06:27
+Passes Kentish Town,06:28
+Arrives at St. Pancras,06:34
+Departs from St. Pancras,06:35
+Passes Kings Cross TL (Closed),06:36
+Arrives at Farringdon,06:38
+Departs from Farringdon,06:39
+Arrives at City Thameslink,06:40
+Departs from City Thameslink,06:41
+Arrives at Blackfriars,06:43
+Departs from Blackfriars,06:44
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,06:46
+
+
+Bedford - East Grinstead [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9L87
+
+Enters at T/F West Hampstead TL,07:47
+Passes Kentish Town,07:48
+Arrives at St. Pancras,07:54
+Departs from St. Pancras,07:55
+Passes Kings Cross TL (Closed),07:56
+Arrives at Farringdon,07:58
+Departs from Farringdon,07:59
+Arrives at City Thameslink,08:00
+Departs from City Thameslink,08:01
+Arrives at Blackfriars,08:03
+Departs from Blackfriars,08:04
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,08:06
+
+
+Bedford - East Grinstead [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9L91,9L93,9L95
+
+Enters at T/F West Hampstead TL,16:47,17:17,17:47
+Passes Kentish Town,16:48,17:18,17:48
+Arrives at St. Pancras,16:54,17:24,17:54
+Departs from St. Pancras,16:55,17:25,17:55
+Passes Kings Cross TL (Closed),16:56,17:26,17:56
+Arrives at Farringdon,16:58,17:28,17:58
+Departs from Farringdon,16:59,17:29,17:59
+Arrives at City Thameslink,17:00,17:30,18:00
+Departs from City Thameslink,17:01,17:31,18:01
+Arrives at Blackfriars,17:03,17:33,18:03
+Departs from Blackfriars,17:04,17:34,18:04
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,17:06,17:36,18:06
+
+
+Orpington - Luton via E&C P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K00,9K02
+
+Enters at T/F Loughborough Junction,05:12,05:42
+Arrives at Elephant & Castle,05:14,05:44
+Departs from Elephant & Castle,05:15,05:45
+Arrives at Blackfriars,05:19,05:49
+Departs from Blackfriars,05:20,05:50
+Arrives at City Thameslink,05:21,05:51
+Departs from City Thameslink,05:22,05:52
+Arrives at Farringdon,05:23,05:53
+Departs from Farringdon,05:24,05:54
+Passes Kings Cross TL (Closed),05:27,05:57
+Arrives at St. Pancras,05:28,05:58
+Departs from St. Pancras,05:29,05:59
+Arrives at Kentish Town,05:33,06:03
+Departs from Kentish Town,05:34,06:04
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,05:35,06:05
+
+
+Orpington - Luton via E&C P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K06,9K08
+
+Enters at T/F Loughborough Junction,06:42,07:12
+Arrives at Elephant & Castle,06:44,07:14
+Departs from Elephant & Castle,06:45,07:15
+Arrives at Blackfriars,06:49,07:19
+Departs from Blackfriars,06:50,07:20
+Arrives at City Thameslink,06:51,07:21
+Departs from City Thameslink,06:52,07:22
+Arrives at Farringdon,06:53,07:23
+Departs from Farringdon,06:54,07:24
+Passes Kings Cross TL (Closed),06:57,07:27
+Arrives at St. Pancras,06:58,07:28
+Departs from St. Pancras,06:59,07:29
+Arrives at Kentish Town,07:03,07:33
+Departs from Kentish Town,07:04,07:34
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,07:05,07:35
+
+
+Orpington - W. Hampstead TL via E&C P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K80
+
+Enters at T/F Loughborough Junction,07:41
+Arrives at Elephant & Castle,07:43
+Departs from Elephant & Castle,07:44
+Arrives at Blackfriars,07:48
+Departs from Blackfriars,07:49
+Arrives at City Thameslink,07:50
+Departs from City Thameslink,07:51
+Arrives at Farringdon,07:52
+Departs from Farringdon,07:53
+Passes Kings Cross TL (Closed),07:56
+Arrives at St. Pancras,07:57
+Departs from St. Pancras,07:58
+Arrives at Kentish Town,08:02
+Departs from Kentish Town,08:03
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,08:04
+
+
+Orpington - Luton via E&C P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K12,9K14
+
+Enters at T/F Loughborough Junction,08:12,08:42
+Arrives at Elephant & Castle,08:14,08:44
+Departs from Elephant & Castle,08:15,08:45
+Arrives at Blackfriars,08:19,08:49
+Departs from Blackfriars,08:20,08:50
+Arrives at City Thameslink,08:21,08:51
+Departs from City Thameslink,08:22,08:52
+Arrives at Farringdon,08:23,08:53
+Departs from Farringdon,08:24,08:54
+Passes Kings Cross TL (Closed),08:27,08:57
+Arrives at St. Pancras,08:28,08:58
+Departs from St. Pancras,08:29,08:59
+Arrives at Kentish Town,08:33,09:03
+Departs from Kentish Town,08:34,09:04
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,08:35,09:05
+
+
+Orpington - W. Hampstead TL via E&C P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K76,9K78
+
+Enters at T/F Loughborough Junction,09:11,09:41
+Arrives at Elephant & Castle,09:13,09:43
+Departs from Elephant & Castle,09:14,09:44
+Arrives at Blackfriars,09:18,09:48
+Departs from Blackfriars,09:19,09:49
+Arrives at City Thameslink,09:20,09:50
+Departs from City Thameslink,09:21,09:51
+Arrives at Farringdon,09:22,09:52
+Departs from Farringdon,09:23,09:53
+Passes Kings Cross TL (Closed),09:26,09:56
+Arrives at St. Pancras,09:27,09:57
+Departs from St. Pancras,09:28,09:58
+Arrives at Kentish Town,09:32,10:02
+Departs from Kentish Town,09:33,10:03
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,09:34,10:04
+
+
+Orpington - Luton via E&C P3 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K52
+
+Enters at T/F Loughborough Junction,18:11
+Arrives at Elephant & Castle,18:13
+Departs from Elephant & Castle,18:14
+Arrives at Blackfriars,18:18
+Departs from Blackfriars,18:19
+Arrives at City Thameslink,18:20
+Departs from City Thameslink,18:21
+Arrives at Farringdon,18:22
+Departs from Farringdon,18:23
+Passes Kings Cross TL (Closed),18:26
+Arrives at St. Pancras,18:27
+Departs from St. Pancras,18:28
+Arrives at Kentish Town,18:32
+Departs from Kentish Town,18:33
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,18:34
+
+
+Orpington - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K84
+
+Enters at T/F Loughborough Junction,18:41
+Arrives at Elephant & Castle,18:43
+Departs from Elephant & Castle,18:44
+Arrives at Blackfriars,18:48
+Changes direction at Blackfriars,18:50
+At Blackfriars forms new service,9K85 at 18:52
+
+
+Orpington - Blackfriars P3 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K86
+
+Enters at T/F Loughborough Junction,19:11
+Arrives at Elephant & Castle,19:13
+Departs from Elephant & Castle,19:14
+Arrives at Blackfriars,19:18
+Changes direction at Blackfriars,19:20
+At Blackfriars forms new service,5K86 at 19:22
+
+
+Blackfriars - Orpington via E&C P2 [TL] - Class 700/0
+,9K01
+
+New service at Blackfriars from,5K01 at 05:16
+Departs from Blackfriars,05:26
+Arrives at Elephant & Castle,05:29
+Departs from Elephant & Castle,05:30
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,05:33
+
+
+W Hampstead TL - Orpington via E&C P4 [TL] Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K03,9K05
+
+Enters at T/F West Hampstead TL,05:38,06:08
+Arrives at Kentish Town,05:39,06:09
+Departs from Kentish Town,05:40,06:10
+Arrives at St. Pancras,05:46,06:16
+Departs from St. Pancras,05:47,06:17
+Passes Kings Cross TL (Closed),05:48,06:18
+Arrives at Farringdon,05:51,06:21
+Departs from Farringdon,05:52,06:22
+Arrives at City Thameslink,05:53,06:23
+Departs from City Thameslink,05:54,06:24
+Arrives at Blackfriars,05:55,06:25
+Departs from Blackfriars,05:56,06:26
+Arrives at Elephant & Castle,06:00,06:30
+Departs from Elephant & Castle,06:01,06:31
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,06:03,06:33
+
+
+Luton - Orpington via E&C P4 [TL] Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K07,9K09
+
+Enters at T/F West Hampstead TL,06:38,07:08
+Arrives at Kentish Town,06:39,07:09
+Departs from Kentish Town,06:40,07:10
+Arrives at St. Pancras,06:46,07:16
+Departs from St. Pancras,06:47,07:17
+Passes Kings Cross TL (Closed),06:48,07:18
+Arrives at Farringdon,06:51,07:21
+Departs from Farringdon,06:52,07:22
+Arrives at City Thameslink,06:53,07:23
+Departs from City Thameslink,06:54,07:24
+Arrives at Blackfriars,06:55,07:25
+Departs from Blackfriars,06:56,07:26
+Arrives at Elephant & Castle,07:00,07:30
+Departs from Elephant & Castle,07:01,07:31
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,07:03,07:33
+
+
+Luton - Orpington via E&C P4 [TL] Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K11,9K15
+
+Enters at T/F West Hampstead TL,07:38,08:38
+Arrives at Kentish Town,07:39,08:39
+Departs from Kentish Town,07:40,08:40
+Arrives at St. Pancras,07:46,08:46
+Departs from St. Pancras,07:47,08:47
+Passes Kings Cross TL (Closed),07:48,08:48
+Arrives at Farringdon,07:51,08:51
+Departs from Farringdon,07:52,08:52
+Arrives at City Thameslink,07:53,08:53
+Departs from City Thameslink,07:54,08:54
+Arrives at Blackfriars,07:55,08:55
+Departs from Blackfriars,07:56,08:56
+Arrives at Elephant & Castle,08:00,09:00
+Departs from Elephant & Castle,08:01,09:01
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,08:03,09:03
+
+
+W Hampstead TL - Orpington via E&C P4 [TL] Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K51
+
+Enters at T/F West Hampstead TL,17:38
+Arrives at Kentish Town,17:39
+Departs from Kentish Town,17:40
+Arrives at St. Pancras,17:46
+Departs from St. Pancras,17:47
+Passes Kings Cross TL (Closed),17:48
+Arrives at Farringdon,17:51
+Departs from Farringdon,17:52
+Arrives at City Thameslink,17:53
+Departs from City Thameslink,17:54
+Arrives at Blackfriars,17:55
+Departs from Blackfriars,17:56
+Arrives at Elephant & Castle,18:00
+Departs from Elephant & Castle,18:01
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,18:03
+
+
+Blackfriars - Orpington via E&C P2 [TL] - Class 700/0
+,9K85
+
+New service at Blackfriars from,9K84 at 18:52
+Departs from Blackfriars,18:56
+Arrives at Elephant & Castle,18:59
+Departs from Elephant & Castle,19:00
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,19:03
+
+
+Luton - Elephant & Castle P4 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K13
+
+Enters at T/F West Hampstead TL,08:09
+Passes Kentish Town,08:10
+Arrives at St. Pancras,08:16
+Departs from St. Pancras,08:17
+Passes Kings Cross TL (Closed),08:18
+Arrives at Farringdon,08:20
+Departs from Farringdon,08:21
+Arrives at City Thameslink,08:22
+Departs from City Thameslink,08:23
+Arrives at Blackfriars,08:25
+Departs from Blackfriars,08:26
+Arrives at Elephant & Castle,08:31
+At Elephant & Castle forms new service,5K14 at 08:32
+
+
+Luton - Elephant & Castle P4 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9K17
+
+Enters at T/F West Hampstead TL,09:09
+Passes Kentish Town,09:10
+Arrives at St. Pancras,09:16
+Departs from St. Pancras,09:17
+Passes Kings Cross TL (Closed),09:18
+Arrives at Farringdon,09:20
+Departs from Farringdon,09:21
+Arrives at City Thameslink,09:22
+Departs from City Thameslink,09:23
+Arrives at Blackfriars,09:25
+Departs from Blackfriars,09:26
+Arrives at Elephant & Castle,09:31
+At Elephant & Castle forms new service,5K17 at 09:32
+
+
+Luton - Gatwick Airport [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R57
+
+Enters at T/F West Hampstead TL,20:57
+Passes Kentish Town,20:58
+Arrives at St. Pancras,21:04
+Departs from St. Pancras,21:05
+Passes Kings Cross TL (Closed),21:06
+Arrives at Farringdon,21:08
+Departs from Farringdon,21:09
+Arrives at City Thameslink,21:10
+Departs from City Thameslink,21:11
+Arrives at Blackfriars,21:13
+Departs from Blackfriars,21:14
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,21:16
+
+
+Luton - Three Bridges [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R59
+
+Enters at T/F West Hampstead TL,21:27
+Passes Kentish Town,21:28
+Arrives at St. Pancras,21:34
+Departs from St. Pancras,21:35
+Passes Kings Cross TL (Closed),21:36
+Arrives at Farringdon,21:38
+Departs from Farringdon,21:39
+Arrives at City Thameslink,21:40
+Departs from City Thameslink,21:41
+Arrives at Blackfriars,21:43
+Departs from Blackfriars,21:44
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,21:46
+
+
+Luton - Gatwick Airport [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R61,9R63
+
+Enters at T/F West Hampstead TL,21:57,22:27
+Passes Kentish Town,21:58,22:28
+Arrives at St. Pancras,22:04,22:34
+Departs from St. Pancras,22:05,22:35
+Passes Kings Cross TL (Closed),22:06,22:36
+Arrives at Farringdon,22:08,22:38
+Departs from Farringdon,22:09,22:39
+Arrives at City Thameslink,22:10,22:40
+Departs from City Thameslink,22:11,22:41
+Arrives at Blackfriars,22:13,22:43
+Departs from Blackfriars,22:14,22:44
+Exits railway at T/F London Bridge,
+allowable exit element(s): 78-21 ,22:16,22:46
+
+
+Luton - Blackfriars P1 [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9Z85
+
+Enters at T/F West Hampstead TL,23:35
+Arrives at Kentish Town,23:37
+Departs from Kentish Town,23:38
+Arrives at St. Pancras,23:41
+Departs from St. Pancras,23:42
+Passes Kings Cross TL (Closed),23:43
+Arrives at Farringdon,23:46
+Departs from Farringdon,23:47
+Passes City Thameslink,23:49
+Arrives at Blackfriars,23:51
+Changes direction at Blackfriars,23:54
+At Blackfriars forms new service,5Z86 at 23:56
+
+
+Three Bridges - Luton [TL] - Class 700/1; Mass 410Te; Power 5000kW; Brake force 152Te; Maximum speed 161 km/h
+,9R56,9R58,9R60,9R62
+
+Enters at T/F London Bridge,19:22,19:52,20:22,20:52
+Arrives at Blackfriars,19:26,19:56,20:26,20:56
+Departs from Blackfriars,19:27,19:57,20:27,20:57
+Arrives at City Thameslink,19:28,19:58,20:28,20:58
+Departs from City Thameslink,19:29,19:59,20:29,20:59
+Arrives at Farringdon,19:30,20:00,20:30,21:00
+Departs from Farringdon,19:31,20:01,20:31,21:01
+Passes Kings Cross TL (Closed),19:34,20:04,20:34,21:04
+Arrives at St. Pancras,19:35,20:05,20:35,21:05
+Departs from St. Pancras,19:36,20:06,20:36,21:06
+Passes Kentish Town,19:40,20:10,20:40,21:10
+Exits railway at T/F West Hampstead TL,
+allowable exit element(s): 0-10 ,19:41,20:11,20:41,21:11
+
+
+Herne Hill - Blackfriars P2 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Z80
+
+Enters at T/F Loughborough Junction,23:23
+Passes Elephant & Castle,23:25
+Arrives at Blackfriars,23:28
+At Blackfriars forms new service,5J80 at 23:30
+
+
+Herne Hill - Blackfriars P2 via E&C P1 [TL] - Class 700/0; Mass 278Te; Power 3300kW; Brake force 152Te; Maximum speed 161 km/h
+,9Z84
+
+Enters at T/F Loughborough Junction,23:55
+Passes Elephant & Castle,23:57
+Arrives at Blackfriars,24:04
+At Blackfriars forms new service,5V84 at 24:06
+
+
+Beckenham Jct - Blackfriars P3 via. E&C P1 [SE] - Class 376; Mass 210Te; Power 1119kW; Brake force 134Te; Maximum speed 121 km/h
+,2D81
+
+Enters at T/F Loughborough Junction,07:20
+Arrives at Elephant & Castle,07:22
+Departs from Elephant & Castle,07:23
+Arrives at Blackfriars,07:27
+Changes direction at Blackfriars,07:30
+At Blackfriars forms new service,1M81 at 07:32
+
+
+Beckenham Jct - Blackfriars P4 via. E&C P1 [SE] - Class 376; Mass 210Te; Power 1119kW; Brake force 134Te; Maximum speed 121 km/h
+,2D83
+
+Enters at T/F Loughborough Junction,07:50
+Arrives at Elephant & Castle,07:52
+Departs from Elephant & Castle,07:53
+Arrives at Blackfriars,07:57
+Changes direction at Blackfriars,08:00
+At Blackfriars forms new service,1M83 at 08:02
+
+
+Beckenham Jct - Blackfriars P3 via. E&C P1 [SE] - Class 376; Mass 210Te; Power 1119kW; Brake force 134Te; Maximum speed 121 km/h
+,2D85
+
+Enters at T/F Loughborough Junction,08:20
+Arrives at Elephant & Castle,08:22
+Departs from Elephant & Castle,08:23
+Arrives at Blackfriars,08:27
+Changes direction at Blackfriars,08:30
+At Blackfriars forms new service,1M85 at 08:32
+
+
+Beckenham Jct - Blackfriars P4 via. E&C P1 [SE] - Class 376; Mass 210Te; Power 1119kW; Brake force 134Te; Maximum speed 121 km/h
+,2D87
+
+Enters at T/F Loughborough Junction,08:50
+Arrives at Elephant & Castle,08:52
+Departs from Elephant & Castle,08:53
+Arrives at Blackfriars,08:57
+Changes direction at Blackfriars,09:00
+At Blackfriars forms new service,5Y87 at 09:02
+
+
+Beckenham Jct - Blackfriars P3 via. E&C P1 [SE] - Class 376; Mass 210Te; Power 1119kW; Brake force 134Te; Maximum speed 121 km/h
+,2D89
+
+Enters at T/F Loughborough Junction,09:20
+Arrives at Elephant & Castle,09:22
+Departs from Elephant & Castle,09:23
+Arrives at Blackfriars,09:27
+Changes direction at Blackfriars,09:30
+At Blackfriars forms new service,5U97 at 09:32
+
+
+Beckenham Jct - Blackfriars P3 via. E&C P1 [SE] - Class 465; Mass 136Te; Power 2420kW; Brake force 37Te; Maximum speed 121 km/h
+,1D83
+
+Enters at T/F Loughborough Junction,18:13
+Passes Elephant & Castle,18:15
+Arrives at Blackfriars,18:19
+Changes direction at Blackfriars,18:22
+At Blackfriars forms new service,2M87 at 18:24
+
+
+Blackfriars - Beckenham Jct via. E&C P2 [SE] - Class 376
+,1M81
+
+New service at Blackfriars from,2D81 at 07:32
+Departs from Blackfriars,07:34
+Passes Elephant & Castle,07:37
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,07:39
+
+
+Blackfriars - Beckenham Jct via. E&C P2 [SE] - Class 376
+,1M83
+
+New service at Blackfriars from,2D83 at 08:02
+Departs from Blackfriars,08:04
+Passes Elephant & Castle,08:06
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,08:08
+
+
+Blackfriars - Beckenham Jct via. E&C P2 [SE] - Class 376
+,1M85
+
+New service at Blackfriars from,2D85 at 08:32
+Departs from Blackfriars,08:34
+Passes Elephant & Castle,08:37
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,08:39
+
+
+Blackfriars - Beckenham Jct via. E&C P2 [SE] - Class 465
+,2M83
+
+New service at Blackfriars from,5Y12 at 17:04
+Departs from Blackfriars,17:28
+Arrives at Elephant & Castle,17:31
+Departs from Elephant & Castle,17:32
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,17:34
+
+
+Blackfriars - Beckenham Jct via. E&C P2 [SE] - Class 465
+,2M87
+
+New service at Blackfriars from,1D83 at 18:24
+Departs from Blackfriars,18:28
+Arrives at Elephant & Castle,18:31
+Departs from Elephant & Castle,18:32
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,18:34
+
+
+Blackfriars - London Victoria via. E&C P2 [SE] - Class 377
+,5Y92
+
+New service at Blackfriars from,1F91 at 08:10
+Departs from Blackfriars,08:14
+Passes Elephant & Castle,08:16
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,08:18
+
+
+Blackfriars - London Victoria via. E&C P2 [SE] - Class 377
+,5Y94
+
+New service at Blackfriars from,2K93 at 08:38
+Departs from Blackfriars,08:45
+Passes Elephant & Castle,08:48
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,08:49
+
+
+Blackfriars - London Victoria via. E&C P4 [SE] - Class 376
+,5Y87
+
+New service at Blackfriars from,2D87 at 09:02
+Departs from Blackfriars,09:10
+Passes Elephant & Castle,09:13
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,09:16
+
+
+Blackfriars - London Victoria via. E&C P2 [SE] - Class 376
+,5U97
+
+New service at Blackfriars from,2D89 at 09:32
+Departs from Blackfriars,09:49
+Passes Elephant & Castle,09:52
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,09:55
+
+
+Blackfriars - London Victoria via. E&C P2 [SE] - Class 465
+,5Y96
+
+New service at Blackfriars from,2Y95 at 09:42
+Departs from Blackfriars,09:56
+Passes Elephant & Castle,09:59
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,10:02
+
+
+Beckenham Jct - Blackfriars P4 via. E&C P1 [SE] - Class 465; Mass 136Te; Power 2420kW; Brake force 37Te; Maximum speed 121 km/h
+,5Y05
+
+Enters at T/F Loughborough Junction,12:56
+Passes Elephant & Castle,12:58
+Arrives at Blackfriars,13:02
+Changes direction at Blackfriars,13:04
+At Blackfriars forms new service,5Y06 at 13:06
+
+
+Blackfriars - London Victoria via. E&C P2 [SE] - Class 465
+,5Y06
+
+New service at Blackfriars from,5Y05 at 13:06
+Departs from Blackfriars,13:11
+Passes Elephant & Castle,13:13
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,13:15
+
+
+Grove Park CHS - Blackfriars P4 via. E&C P1 [SE] - Class 465; Mass 136Te; Power 2420kW; Brake force 37Te; Maximum speed 121 km/h
+,5Y28
+
+Enters at T/F Loughborough Junction,14:34
+Passes Elephant & Castle,14:37
+Arrives at Blackfriars,14:42
+Changes direction at Blackfriars,14:44
+At Blackfriars forms new service,5Y11 at 14:46
+
+
+Blackfriars - London Victoria via. E&C P2 [SE] - Class 465
+,5Y11
+
+New service at Blackfriars from,5Y28 at 14:46
+Departs from Blackfriars,15:49
+Passes Elephant & Castle,15:53
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,15:55
+
+
+Victoria - Blackfriars P4 via. E&C P1 [SE] - Class 377; Mass 346Te; Power 1200kW; Brake force 119Te; Maximum speed 161 km/h
+,5Y95
+
+Enters at T/F Loughborough Junction,16:22
+Passes Elephant & Castle,16:25
+Arrives at Blackfriars,16:29
+Changes direction at Blackfriars,16:32
+At Blackfriars forms new service,2K95 at 16:34
+
+
+Beckenham Jct - Blackfriars P3 via. E&C P1 [SE] - Class 465; Mass 136Te; Power 2420kW; Brake force 37Te; Maximum speed 121 km/h
+,5Y12
+
+Enters at T/F Loughborough Junction,16:54
+Passes Elephant & Castle,16:56
+Arrives at Blackfriars,16:59
+Changes direction at Blackfriars,17:02
+At Blackfriars forms new service,2M83 at 17:04
+
+
+Victoria - Blackfriars P4 via. E&C P1 [SE] - Class 377; Mass 346Te; Power 1200kW; Brake force 119Te; Maximum speed 161 km/h
+,5Y97
+
+Enters at T/F Loughborough Junction,17:20
+Passes Elephant & Castle,17:22
+Arrives at Blackfriars,17:27
+Changes direction at Blackfriars,17:30
+At Blackfriars forms new service,1F97 at 17:32
+
+
+Maidstone East - Blackfriars via. E&C P1 [SE] - Class 377; Mass 346Te; Power 1200kW; Brake force 119Te; Maximum speed 161 km/h
+,1F91
+
+Enters at T/F Loughborough Junction,07:57
+Arrives at Elephant & Castle,08:00
+Departs from Elephant & Castle,08:01
+Arrives at Blackfriars,08:05
+Changes direction at Blackfriars,08:08
+At Blackfriars forms new service,5Y92 at 08:10
+
+
+Gillingham (Kent) - Blackfriars via. E&C P1 [SE] - Class 377; Mass 173Te; Power 1200kW; Brake force 119Te; Maximum speed 161 km/h
+,2K93
+
+Enters at T/F Loughborough Junction,08:26
+Arrives at Elephant & Castle,08:29
+Departs from Elephant & Castle,08:30
+Arrives at Blackfriars,08:34
+Changes direction at Blackfriars,08:36
+At Blackfriars forms new service,5Y94 at 08:38
+
+
+Crayford - Blackfriars P4 via. E&C P3 [SE] - Class 376; Mass 210Te; Power 1119kW; Brake force 134Te; Maximum speed 121 km/h
+,2Y95
+
+Enters at T/F Loughborough Junction,09:29
+Arrives at Elephant & Castle,09:32
+Departs from Elephant & Castle,09:33
+Arrives at Blackfriars,09:37
+Changes direction at Blackfriars,09:40
+At Blackfriars forms new service,5Y96 at 09:42
+
+
+Blackfriars - Rochester via. E&C P4 [SE] - Class 377
+,2K95
+
+New service at Blackfriars from,5Y95 at 16:34
+Departs from Blackfriars,17:10
+Arrives at Elephant & Castle,17:13
+Departs from Elephant & Castle,17:14
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-23 ,17:16
+
+
+Blackfriars - Maidstone East via. E&C P2 [SE] - Class 377
+,1F97
+
+New service at Blackfriars from,5Y97 at 17:32
+Departs from Blackfriars,17:44
+Arrives at Elephant & Castle,17:47
+Departs from Elephant & Castle,17:48
+Exits railway at T/F Loughborough Junction,
+allowable exit element(s): 105-25 ,17:50
+
+
